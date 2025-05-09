@@ -1,0 +1,13 @@
+pyodbc
+hashlib
+pandas
+gradio
+gradio_calendar
+plotly
+openpyxl
+Scrapy
+requests
+PyDispatcher==2.0.5
+python-rdrsegmenter==0.1.1
+transformers==4.36.0
+datasets
