@@ -1,0 +1,13 @@
+{
+    "predicted_citations": {
+        "0": [
+            "candidate id for sentence 0"
+        ],
+        "1": [],
+        "2": [
+            "candidate 1 id for sentence 2",
+            "candidate 2 id for sentence 2",
+            "..."
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "predicted_citations": [
+        "candidate 1 id",
+        "...",
+        "candidate k id"
+    ]
+}
