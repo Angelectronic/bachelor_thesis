@@ -1,0 +1,1315 @@
+[
+    {
+        "id": 6,
+        "question": "Mục đích mà chú hề đặt câu hỏi cho công chúa về hai mặt trăng là gì?",
+        "context": "Nhà vua rất mừng vì con gái đã khỏi bệnh, nhưng ngài lập tức lo lắng vì đêm đó mặt trăng sẽ sáng vằng vặc trên bầu trời. Nếu con gái yêu của ngài nhìn thấy mặt trăng, cô bé sẽ nhận ra mặt trăng đeo trên cổ cô không phải là mặt trăng thật, sẽ thất vọng và ốm trở lại. Thế là ngài lại cho vời các vị đại thần, các nhà khoa học đến để nghĩ cách làm cho công chúa không thể nhìn thấy mặt trăng. Các vị đại thần, các nhà khoa học đều bó tay.\n\nMặt trăng đã bắt đầu nhô lên qua cửa sổ. Nhà vua vội gọi chú hề tới, nói cho chú hay điều ngài lo lắng.\n\nChú hề vào phòng công chúa, thấy cô bé đang nằm bên cửa sổ, mắt ngắm nhìn vầng trăng tỏa sáng trên bầu trời, tay nâng niu vầng trăng bé nhỏ gắn trên chiếc dây chuyền ở cổ.\n\n- Làm sao mặt trăng lại chiếu sáng trên trời trong khi nó đang nằm trên cổ công chúa nhỉ? - Chú hề hỏi.\n\nCông chúa nhìn chú bé, mỉm cười:\n\n- Khi ta mất một chiếc răng, chiếc mới sẽ mọc ngay vào chỗ ấy. Khi ta cắt một bông hoa trong vườn, những bông hoa mới sẽ mọc lên. Có đúng không nào?\n\nChú hề vội tiếp lời:\n\n- Tất nhiên rồi. Khi một con hươu mất sừng, cái sừng mới sẽ mọc ra. Sau khi đêm thay thế cho ngày, ngày lại thế chỗ của đêm.\n\n- Mặt trăng cũng như vậy, mọi thứ đều như vậy... - Giọng công chúa nhỏ dần, nhỏ dần. Nàng đã ngủ.\n\nChú hề đắp chăn cho công chúa rồi rón rén ra khỏi giường.",
+        "options": [
+            "Để nêu ý kiến: mặt trăng trên cổ cô đẹp hơn.",
+            "Để dò hỏi ý của công chúa về mặt trăng.",
+            "Để hỏi công chúa thích mặt trăng nào hơn.",
+            "Để khiến công chúa phân tâm, không buồn nữa."
+        ],
+        "answers": "B",
+        "prediction": "D"
+    },
+    {
+        "id": 20,
+        "question": "Vì sao bác Nhân quyết định chuyển về quê sinh sống?",
+        "context": "1. Bác Nhân, hàng xóm nhà tôi, là một người làm đồ chơi bằng bột màu. \n\nỞ ngoài phố, cái sào nứa cắm đồ chơi của bác dựng chỗ nào là chỗ ấy, trẻ con xúm lại. Các bạn ngắm đồ chơi, tò mò xem bác nặn những ông Bụt, Thạch Sanh, Tôn Ngộ Không, những con vịt, con gà,... sắc màu sặc sỡ.\n\nBác Nhân rất vui với công việc của mình. Mỗi chiều bán hàng về, bác lại kể cho chúng tôi nghe trẻ nhỏ thích đồ chơi của bác như thế nào.\n\n2. Dạo này, hàng của bác Nhân bỗng ế. Những đồ chơi mới bằng nhựa đã xuất hiện.\n\nMột hôm, bác Nhân bảo: bác sắp về quê làm ruộng, không nặn đồ chơi nữa.\n\nTôi suýt khóc, nhưng cố tỏ ra bình tĩnh:\n\n- Bác đừng về. Bác ở đây làm đồ chơi bán cho chúng cháu.\n\n- Nhưng độ này chả mấy ai mua đồ chơi của bác nữa.\n\n- Cháu mua và sẽ rủ bạn cùng mua.\n\nBác cảm động ôm lấy tôi.\n\n3. Hôm sau là buổi bán hàng cuối cùng của bác Nhân. Sáng ấy, tôi đập con lợn đất, đếm được hơn mười nghìn đồng. Tôi chia nhỏ món tiền, nhờ mấy bạn trong lớp mua giúp đồ chơi của bác.\n\nGặp bác chiều ấy, tôi thấy bác rất vui. Bác tặng tôi hai con giống, rồi kể: \"Hôm nay, bác bán hết nhẵn hàng. Thì ra, vẫn còn nhiều trẻ nhỏ thích đồ chơi của bác.\"\n\nBác còn bảo: \n\n- Về quê, bác cũng sẽ nặn đồ chơi để bán. Nghe nói trẻ ở nông thôn thích thứ này hơn trẻ thành phố.",
+        "options": [
+            "Vì hàng của bác bỗng ế.",
+            "Vì nhà bác ở quê có việc.",
+            "Vì bác đã chán nặn đồ chơi.",
+            "Vì bán đồ chơi được rất ít tiền."
+        ],
+        "answers": "A",
+        "prediction": "B"
+    },
+    {
+        "id": 22,
+        "question": "Khi về quê, bác Nhân có ý định làm gì?",
+        "context": "1. Bác Nhân, hàng xóm nhà tôi, là một người làm đồ chơi bằng bột màu. \n\nỞ ngoài phố, cái sào nứa cắm đồ chơi của bác dựng chỗ nào là chỗ ấy, trẻ con xúm lại. Các bạn ngắm đồ chơi, tò mò xem bác nặn những ông Bụt, Thạch Sanh, Tôn Ngộ Không, những con vịt, con gà,... sắc màu sặc sỡ.\n\nBác Nhân rất vui với công việc của mình. Mỗi chiều bán hàng về, bác lại kể cho chúng tôi nghe trẻ nhỏ thích đồ chơi của bác như thế nào.\n\n2. Dạo này, hàng của bác Nhân bỗng ế. Những đồ chơi mới bằng nhựa đã xuất hiện.\n\nMột hôm, bác Nhân bảo: bác sắp về quê làm ruộng, không nặn đồ chơi nữa.\n\nTôi suýt khóc, nhưng cố tỏ ra bình tĩnh:\n\n- Bác đừng về. Bác ở đây làm đồ chơi bán cho chúng cháu.\n\n- Nhưng độ này chả mấy ai mua đồ chơi của bác nữa.\n\n- Cháu mua và sẽ rủ bạn cùng mua.\n\nBác cảm động ôm lấy tôi.\n\n3. Hôm sau là buổi bán hàng cuối cùng của bác Nhân. Sáng ấy, tôi đập con lợn đất, đếm được hơn mười nghìn đồng. Tôi chia nhỏ món tiền, nhờ mấy bạn trong lớp mua giúp đồ chơi của bác.\n\nGặp bác chiều ấy, tôi thấy bác rất vui. Bác tặng tôi hai con giống, rồi kể: \"Hôm nay, bác bán hết nhẵn hàng. Thì ra, vẫn còn nhiều trẻ nhỏ thích đồ chơi của bác.\"\n\nBác còn bảo: \n\n- Về quê, bác cũng sẽ nặn đồ chơi để bán. Nghe nói trẻ ở nông thôn thích thứ này hơn trẻ thành phố.",
+        "options": [
+            "Bác về quê lái đò, không nặn đồ chơi nữa.",
+            "Bác làm ruộng, không nặn đồ chơi nữa.",
+            "Bác vẫn tiếp tục nặn đồ chơi cho trẻ em.",
+            "Bác về quê bán hàng, không nặn đồ chơi nữa."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 26,
+        "question": "Thành ngữ nào dưới đây phù hợp khi nói về gia cảnh của cậu bé Lula?",
+        "context": "Trong căn phòng chật hẹp và tồi tàn nằm nép mình giữa thành phố Sao Paolo là một bà mẹ đơn thân với tám đứa con nhỏ. Vì hoàn cảnh nghèo khó, những đứa trẻ của gia đình ấy đã sớm phải bươn trải để kiếm tiền mưu sinh. Lula là đứa con áp út và bé bỏng trong nhà. Mới mười hai tuổi nhưng cậu bé đã phải lang thang bán đậu phộng và đánh giày ngoài phố. Ngày nào cũng vậy, cậu bé Lula lại xách chiếc hộp đánh giày ra đường cùng với hai đứa bạn đồng trang lứa.\n\nVào buổi chiều nọ, chúng vô tình gặp một vị khách là chủ tiệm giặt là. Ba đứa trẻ vội chạy đến, trong bộ quần áo tả tơi chúng mời chào vị khách lớn tuổi này. Ông chủ tiệm thương hại nhìn ba cặp mắt như đang nài xin mình, nhưng vì không biết nên chọn ai trong số đó, ông nói: “Đứa nào cần tiền nhất thì ta sẽ cho đánh giày và trả công hai đồng”.\n\nVới ánh mắt đầy hi vọng, một đứa nói: “Từ sáng đến giờ cháu chưa được ăn gì cả, nếu không kiếm được tiền thì hôm nay cháu sẽ chết đói mất!” Một đứa khác khẩn khoản: “Nhà cháu đã hết thức ăn từ ba ngày nay rồi, mẹ cháu lại đang ốm, cháu còn phải mua thức ăn cho cả nhà, nếu không thì lại bị ăn đòn”.\n\nKhi ông chủ tiệm vẫn đang lưỡng lự không biết nên chọn ai thì đứa trẻ còn lại lên tiếng: “Nếu cháu kiếm được hai đồng này, cháu sẽ chia cho các bạn mình, mỗi đứa một đồng”.\n\nÔng chủ tiệm vẫn chưa hết ngạc nhiên thì cậu bé đã giải thích: “Tụi nó là bạn thân nhất của cháu, đã nhịn đói rất lâu rồi. Còn cháu thì hồi trưa được ăn ít đậu phộng nên có sức đánh giày hơn tụi nó. Ông cứ để cháu đánh đi, chắc chắn ông sẽ hài lòng”.\n\nVà cậu bé đã giữ đúng lời hứa.\n\nVài ngày sau, tại căn phòng trọ ọp ẹp của gia đình Lula có một vị khách bất ngờ ghé thăm. Thì ra đó là ông chủ tiệm giặt là. Vì cảm phục trước tấm lòng nhân hậu của cậu bé, ông chủ đã đề nghị nhận Lula vào học việc trong tiệm giặt là của mình. Được một ông chủ hào phóng giúp đỡ như vậy thì quả là giấc mơ không tưởng đối với cậu bé nghèo Lula.\n\nNhưng câu chuyện vẫn chưa dừng lại ở đó nếu như bạn biết rằng Lula là cậu bé thất học. Mãi đến năm mười tuổi cậu mới bắt đầu học chữ, nhưng rồi phải bỏ học để đi đánh giày khi vừa kết thúc lớp bốn. Lula sinh ra trong nghèo khó, từng sống với người cha nát rượu và thường xuyên đánh đập vợ con, lớn lên cậu lại chứng kiến cuộc sống trong những khu ổ chuột ở Brazil, Lula thấm thía hơn bao giờ hết nỗi cay cực của những người cùng khổ. Bởi vậy, Lula bé nhỏ luôn mang trong mình mong ước được giúp đỡ người nghèo, thậm chí cậu đã từng tham gia công đoàn để bênh vực quyền lợi cho những người công nhân ở Brazil.\n\nVà tên đầy đủ của cậu là Luiz Inácio Lula da Silva – vị tổng thống được ngưỡng mộ nhất trong lịch sử Brazil. Ông chính là người đã đưa Brazil từ “con khủng long nhai cỏ” trở thành “mãnh sư châu Mỹ Latinh”. Trong tám năm nhiệm kỳ của ông (2003-2011), đất nước Brazil đã thoát khỏi tình trạng bị cô lập và tụt hậu để trở thành một trong bốn nền kinh tế phát triển năng động nhất thế giới– còn được biết đến với tên gọi BRIC (Brazil, Russia – Nga, India – Ấn Độ, và China – Trung Quốc).…",
+        "options": [
+            "Áo đơn lồng áo kép.",
+            "Áo rách quần manh.",
+            "Áo rách khéo vá hơn lành vụng may.",
+            "Áo gấm về làng."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 37,
+        "question": "Biểu hiện của Lan như thế nào khi mẹ không mua được cho em chiếc áo như của bạn Hòa?",
+        "context": "1. Năm nay, mùa đông đến sớm. Gió thổi từng cơn lạnh buốt. Đã hơn một tuần nay, Lan thấy Hòa có chiếc áo len màu vàng thật đẹp. Áo có dây kéo ở giữa, lại có cả mũ để đội khi có gió lạnh hoặc mưa lất phất. Lan đã mặc thử. Áo ấm ơi là ấm. Đêm ấy, em nói với mẹ là em muốn có một chiếc áo len như của bạn Hòa.\n\n2. Mẹ đang định mua áo ấm cho hai anh em Tuấn, Lan. Thấy con gái nói vậy, mẹ bối rối:\n\n- Cái áo của Hòa đắt bằng tiền cả hai cái áo của anh em con đấy. \n\nLan phụng phịu:\n\n- Nhưng con chỉ muốn một chiếc áo như thế thôi.\n\nDỗi mẹ, Lan đi nằm ngay. Em vờ ngủ.\n\n3. Một lúc lâu, bỗng em nghe tiếng anh Tuấn thì thào với mẹ:\n\n- Mẹ ơi, mẹ dành hết tiền mua cái áo ấy cho em Lan đi. Con không cần thêm áo đâu.\n\nGiọng mẹ trầm xuống:\n\n- Năm nay trời lạnh lắm. Không có áo ấm, con sẽ ốm mất.\n\n- Con khỏe lắm, mẹ ạ. Con sẽ mặc thêm nhiều áo cũ ở bên trong.\n\nTiếng mẹ âu yếm:\n\n- Để mẹ nghĩ đã. Con đi ngủ đi.\n\n4. Nằm cuộn tròn trong chiếc chăn bông ấm áp, Lan ân hận quá. Em muốn ngồi dậy xin lỗi mẹ và anh, nhưng lại xấu hổ vì mình đã vờ ngủ.\n\nÁp mặt xuống gối, em mong trời mau sáng để nói với mẹ: \"Con không thích chiếc áo ấy nữa. Mẹ hãy để tiền mua áo ấm cho cả hai anh em\".",
+        "options": [
+            "Nói: \"Nhưng con chỉ muốn một chiếc áo như thế thôi\", dỗi mẹ, vờ nhắm mắt ngủ.",
+            "Mặt buồn thiu nhưng đành chấp nhận.",
+            "Dỗi mẹ, vờ nhắm mắt đi ngủ.",
+            "Nói: \"Nhưng con chỉ muốn một chiếc áo như thế thôi\"."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 38,
+        "question": "Tại sao bạn Lan dỗi mẹ?",
+        "context": "1. Năm nay, mùa đông đến sớm. Gió thổi từng cơn lạnh buốt. Đã hơn một tuần nay, Lan thấy Hòa có chiếc áo len màu vàng thật đẹp. Áo có dây kéo ở giữa, lại có cả mũ để đội khi có gió lạnh hoặc mưa lất phất. Lan đã mặc thử. Áo ấm ơi là ấm. Đêm ấy, em nói với mẹ là em muốn có một chiếc áo len như của bạn Hòa.\n\n2. Mẹ đang định mua áo ấm cho hai anh em Tuấn, Lan. Thấy con gái nói vậy, mẹ bối rối:\n\n- Cái áo của Hòa đắt bằng tiền cả hai cái áo của anh em con đấy. \n\nLan phụng phịu:\n\n- Nhưng con chỉ muốn một chiếc áo như thế thôi.\n\nDỗi mẹ, Lan đi nằm ngay. Em vờ ngủ.\n\n3. Một lúc lâu, bỗng em nghe tiếng anh Tuấn thì thào với mẹ:\n\n- Mẹ ơi, mẹ dành hết tiền mua cái áo ấy cho em Lan đi. Con không cần thêm áo đâu.\n\nGiọng mẹ trầm xuống:\n\n- Năm nay trời lạnh lắm. Không có áo ấm, con sẽ ốm mất.\n\n- Con khỏe lắm, mẹ ạ. Con sẽ mặc thêm nhiều áo cũ ở bên trong.\n\nTiếng mẹ âu yếm:\n\n- Để mẹ nghĩ đã. Con đi ngủ đi.\n\n4. Nằm cuộn tròn trong chiếc chăn bông ấm áp, Lan ân hận quá. Em muốn ngồi dậy xin lỗi mẹ và anh, nhưng lại xấu hổ vì mình đã vờ ngủ.\n\nÁp mặt xuống gối, em mong trời mau sáng để nói với mẹ: \"Con không thích chiếc áo ấy nữa. Mẹ hãy để tiền mua áo ấm cho cả hai anh em\".",
+        "options": [
+            "Vì mẹ chê áo của bạn Hòa xấu.",
+            "Vì mẹ không mua cho em áo như của bạn Hòa.",
+            "Vì mẹ đã không mua áo len cho cả hai anh em.",
+            "Vì mẹ chỉ mua áo cho anh Tuấn."
+        ],
+        "answers": "B",
+        "prediction": "D"
+    },
+    {
+        "id": 41,
+        "question": "Thái độ của Lan như thế nào khi nghe mẹ và anh trai nói chuyện?",
+        "context": "1. Năm nay, mùa đông đến sớm. Gió thổi từng cơn lạnh buốt. Đã hơn một tuần nay, Lan thấy Hòa có chiếc áo len màu vàng thật đẹp. Áo có dây kéo ở giữa, lại có cả mũ để đội khi có gió lạnh hoặc mưa lất phất. Lan đã mặc thử. Áo ấm ơi là ấm. Đêm ấy, em nói với mẹ là em muốn có một chiếc áo len như của bạn Hòa.\n\n2. Mẹ đang định mua áo ấm cho hai anh em Tuấn, Lan. Thấy con gái nói vậy, mẹ bối rối:\n\n- Cái áo của Hòa đắt bằng tiền cả hai cái áo của anh em con đấy. \n\nLan phụng phịu:\n\n- Nhưng con chỉ muốn một chiếc áo như thế thôi.\n\nDỗi mẹ, Lan đi nằm ngay. Em vờ ngủ.\n\n3. Một lúc lâu, bỗng em nghe tiếng anh Tuấn thì thào với mẹ:\n\n- Mẹ ơi, mẹ dành hết tiền mua cái áo ấy cho em Lan đi. Con không cần thêm áo đâu.\n\nGiọng mẹ trầm xuống:\n\n- Năm nay trời lạnh lắm. Không có áo ấm, con sẽ ốm mất.\n\n- Con khỏe lắm, mẹ ạ. Con sẽ mặc thêm nhiều áo cũ ở bên trong.\n\nTiếng mẹ âu yếm:\n\n- Để mẹ nghĩ đã. Con đi ngủ đi.\n\n4. Nằm cuộn tròn trong chiếc chăn bông ấm áp, Lan ân hận quá. Em muốn ngồi dậy xin lỗi mẹ và anh, nhưng lại xấu hổ vì mình đã vờ ngủ.\n\nÁp mặt xuống gối, em mong trời mau sáng để nói với mẹ: \"Con không thích chiếc áo ấy nữa. Mẹ hãy để tiền mua áo ấm cho cả hai anh em\".",
+        "options": [
+            "Ân hận.",
+            "Hối hả.",
+            "Ghen tị.",
+            "Xấu hổ."
+        ],
+        "answers": "A",
+        "prediction": "B"
+    },
+    {
+        "id": 42,
+        "question": "Lan đã muốn làm gì khi nghe thấy mẹ và anh trai nói chuyện với nhau?",
+        "context": "1. Năm nay, mùa đông đến sớm. Gió thổi từng cơn lạnh buốt. Đã hơn một tuần nay, Lan thấy Hòa có chiếc áo len màu vàng thật đẹp. Áo có dây kéo ở giữa, lại có cả mũ để đội khi có gió lạnh hoặc mưa lất phất. Lan đã mặc thử. Áo ấm ơi là ấm. Đêm ấy, em nói với mẹ là em muốn có một chiếc áo len như của bạn Hòa.\n\n2. Mẹ đang định mua áo ấm cho hai anh em Tuấn, Lan. Thấy con gái nói vậy, mẹ bối rối:\n\n- Cái áo của Hòa đắt bằng tiền cả hai cái áo của anh em con đấy. \n\nLan phụng phịu:\n\n- Nhưng con chỉ muốn một chiếc áo như thế thôi.\n\nDỗi mẹ, Lan đi nằm ngay. Em vờ ngủ.\n\n3. Một lúc lâu, bỗng em nghe tiếng anh Tuấn thì thào với mẹ:\n\n- Mẹ ơi, mẹ dành hết tiền mua cái áo ấy cho em Lan đi. Con không cần thêm áo đâu.\n\nGiọng mẹ trầm xuống:\n\n- Năm nay trời lạnh lắm. Không có áo ấm, con sẽ ốm mất.\n\n- Con khỏe lắm, mẹ ạ. Con sẽ mặc thêm nhiều áo cũ ở bên trong.\n\nTiếng mẹ âu yếm:\n\n- Để mẹ nghĩ đã. Con đi ngủ đi.\n\n4. Nằm cuộn tròn trong chiếc chăn bông ấm áp, Lan ân hận quá. Em muốn ngồi dậy xin lỗi mẹ và anh, nhưng lại xấu hổ vì mình đã vờ ngủ.\n\nÁp mặt xuống gối, em mong trời mau sáng để nói với mẹ: \"Con không thích chiếc áo ấy nữa. Mẹ hãy để tiền mua áo ấm cho cả hai anh em\".",
+        "options": [
+            "Lan muốn ngồi dậy nói chuyện với mẹ và anh trai.",
+            "Lan muốn ngồi dậy và reo lên vui sướng.",
+            "Lan muốn ngồi dậy hưởng ứng mẹ và anh trai.",
+            "Lan đã muốn ngồi dậy xin lỗi mẹ và anh trai."
+        ],
+        "answers": "D",
+        "prediction": "C"
+    },
+    {
+        "id": 43,
+        "question": "Tại sao Lan muốn xin lỗi mẹ và anh trai nhưng lại thấy xấu hổ?",
+        "context": "1. Năm nay, mùa đông đến sớm. Gió thổi từng cơn lạnh buốt. Đã hơn một tuần nay, Lan thấy Hòa có chiếc áo len màu vàng thật đẹp. Áo có dây kéo ở giữa, lại có cả mũ để đội khi có gió lạnh hoặc mưa lất phất. Lan đã mặc thử. Áo ấm ơi là ấm. Đêm ấy, em nói với mẹ là em muốn có một chiếc áo len như của bạn Hòa.\n\n2. Mẹ đang định mua áo ấm cho hai anh em Tuấn, Lan. Thấy con gái nói vậy, mẹ bối rối:\n\n- Cái áo của Hòa đắt bằng tiền cả hai cái áo của anh em con đấy. \n\nLan phụng phịu:\n\n- Nhưng con chỉ muốn một chiếc áo như thế thôi.\n\nDỗi mẹ, Lan đi nằm ngay. Em vờ ngủ.\n\n3. Một lúc lâu, bỗng em nghe tiếng anh Tuấn thì thào với mẹ:\n\n- Mẹ ơi, mẹ dành hết tiền mua cái áo ấy cho em Lan đi. Con không cần thêm áo đâu.\n\nGiọng mẹ trầm xuống:\n\n- Năm nay trời lạnh lắm. Không có áo ấm, con sẽ ốm mất.\n\n- Con khỏe lắm, mẹ ạ. Con sẽ mặc thêm nhiều áo cũ ở bên trong.\n\nTiếng mẹ âu yếm:\n\n- Để mẹ nghĩ đã. Con đi ngủ đi.\n\n4. Nằm cuộn tròn trong chiếc chăn bông ấm áp, Lan ân hận quá. Em muốn ngồi dậy xin lỗi mẹ và anh, nhưng lại xấu hổ vì mình đã vờ ngủ.\n\nÁp mặt xuống gối, em mong trời mau sáng để nói với mẹ: \"Con không thích chiếc áo ấy nữa. Mẹ hãy để tiền mua áo ấm cho cả hai anh em\".",
+        "options": [
+            "Vì thấy anh tốt quá.",
+            "Vì mình có lỗi thật.",
+            "Vì thấy đã buồn ngủ.",
+            "Vì mình đã vờ ngủ."
+        ],
+        "answers": "A",
+        "prediction": "D"
+    },
+    {
+        "id": 47,
+        "question": "Cô giáo luôn đến trước khi học sinh đến lớp là cách giáo dục điều gì trong xã hội hiện nay?",
+        "context": "Sáng nào em đến lớp\nCũng thấy cô đến rồi\nĐáp lời \"Chào cô ạ!\"\nCô mỉm cười thật tươi.\n\nCô dạy em tập viết\nGió đưa thoảng hương nhài\nNắng ghé vào cửa lớp\nXem chúng em học bài.\n\nNhững lời cô giáo giảng\nẤm trang vở thơm tho\nYêu thương em nhớ mãi\nNhững điểm mười cô cho.",
+        "options": [
+            "Phải luôn đúng giờ.",
+            "Phải luôn đi dạy.",
+            "Cẩn thận là một đức tính tốt.",
+            "Hoà nhã với cộng đồng."
+        ],
+        "answers": "C",
+        "prediction": "A"
+    },
+    {
+        "id": 53,
+        "question": "Bạn nhỏ đã rút ra điều gì qua câu chuyện này?",
+        "context": "Ba tôi trồng một cây xoài. Giống xoài quả to, ngọt và thơm lừng. Mùa xoài nào cũng vậy, ba đều đem biếu chú Tư nhà bên vài ba chục quả.\n\nBỗng một năm gió bão làm bật mấy chiếc rễ. Thế là cây xoài nghiêng hẳn một nửa sang vườn nhà chú Tư. Rồi đến mùa quả chín, tôi trèo lên cây để hái. Sơn (con chú Tư) cũng đem cây có móc ra vin cành xuống hái. Tất nhiên tôi ở trên cây nên hái được nhiều hơn. Hái xong, ba tôi vẫn đem biếu chú Tư vài chục quả. Lần này thì chú không nhận. Đợi lúc ba tôi đi vắng, chú Tư ra đốn phần cây xoài ngã sang vườn chú. Các cành thi nhau đổ xuống. Từng chiếc lá xoài rơi lả tả, nhựa cây ứa ra. Ba tôi về thấy vậy chỉ thở dài mà không nói gì.\n\nMùa xoài lại đến. Lần này, ba tôi cũng đem biếu chú Tư vài chục quả. Tôi liền phản đối. Ba chỉ nhỏ nhẹ khuyên tôi:\n\n- Chú Tư sống dở, mình phải sống hay như thế mới tốt, con ạ !\n\nTôi tức lắm nhưng đành phải vâng lời. Lần này chú chỉ nhận mấy quả thôi. Nhưng từ đó cây xoài cành lá lại xum xuê. Đến mùa, cây lại trĩu quả và Sơn cũng chẳng còn ra tranh hái với tôi nữa.",
+        "options": [
+            "Không nên cãi nhau với hàng xóm.",
+            "Bài học về cách sống tốt ở đời.",
+            "Không nên chặt cây cối.",
+            "Bài học về siêng năng và cần cù."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 56,
+        "question": "Vì sao có thể nói Hải Thượng Lãn Ông là người không màng danh lợi?",
+        "context": "Hải Thượng Lãn Ông là một thầy thuốc giàu lòng nhân ái, không màng danh lợi.\n\nCó lần, một người thuyền chài có đứa con nhỏ bị bệnh đậu nặng, nhưng nhà nghèo, không có tiền chữa. Lãn Ông biết tin bèn đến thăm. Giữa mùa hè nóng nực, cháu bé nằm trong chiếc thuyền nhỏ hẹp, người đầy mụn mủ, mùi hôi tanh bốc lên nồng nặc. Nhưng Lãn Ông vẫn không ngại khổ. Ông ân cần chăm sóc đứa bé suốt một tháng trời và chữa khỏi bệnh cho nó. Khi từ giã nhà thuyền chài, ông chẳng những không lấy tiền mà còn cho thêm gạo, củi.\n\nMột lần khác, có người phụ nữ được ông cho thuốc và giảm bệnh. Nhưng rồi bệnh tái phát, người chồng đến xin đơn thuốc mới. Lúc ấy, trời đã khuya nên Lãn Ông hẹn hôm sau đến khám kĩ mới cho thuốc. Hôm sau ông đến thì được tin người chồng đã lấy thuốc khác, nhưng không cứu được vợ. Lãn Ông rất hối hận. Ông ghi trong sổ thuốc của mình \"Xét về việc thì người bệnh chết do tay thầy thuốc khác, song về tình thì tôi như mắc phải tội giết người. Càng nghĩ càng hối hận.\"\n\nLà thầy thuốc nổi tiếng, Lãn Ông nhiều lần được vua chúa vời vào cung chữa bệnh và được tiến cử vào chức ngự y, song ông đã khéo chối từ.\n\nSuốt đời, Lãn Ông không vương vào vòng danh lợi. Ông có hai câu thơ tỏ chí của mình:\n\nCông danh trước mắt trôi như nước\n\nNhân nghĩa trong lòng chẳng đổi phương",
+        "options": [
+            "Lãn Ông nhiều lần được vua chúa vời vào cung chữa bệnh và được tiến cử vào chức ngự y, song ông đã khéo chối từ.",
+            "Ông ghi trong sổ thuốc của mình \"Xét về việc thì người bệnh chết do tay thầy thuốc khác, song về tình thì tôi như mắc phải tội giết người. Càng nghĩ càng hối hận.\".",
+            "Ông ân cần chăm sóc đứa bé suốt một tháng trời và chữa khỏi bệnh cho nó. Khi từ giã nhà thuyền chài, ông chẳng những không lấy tiền mà còn cho thêm gạo, củi.",
+            "Tất cả các ý trên."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 62,
+        "question": "Tìm những câu thể hiện quyết tâm trong lao động sản xuất của người nông dân?",
+        "context": "Cày đồng đang buổi ban trưa\nMồ hôi thánh thót như mưa ruộng cày           \nAi ơi bưng bát cơm đầy\nDẻo thơm một hột, đắng cay muôn phần!\n\nƠn trời mưa nắng phải thì \nNơi thì bừa cạn, nơi thì cày sâu. \nCông lênh chẳng quản bao lâu \nNgày nay nước bạc, ngày sau cơm vàng \nAi ơi! chớ bỏ ruộng hoang \nBao nhiêu tấc đất tấc vàng bấy nhiêu.\n\nNgười ta đi cấy lấy công \nTôi nay đi cấy còn trông nhiều bề \nTrông trời, trông đất, trông mây \nTrông mưa, trông nắng, trông ngày, trông đêm\nTrông cho chân cứng đá mềm \nTrời yên biển lặng mới yên tấm lòng",
+        "options": [
+            "Công lênh chẳng quản bao lâu - Ngày nay nước bạc, ngày sau cơm vàng.",
+            "Trông cho chân cứng đá mềm - Trời yên biển lặng mới yên tấm lòng.",
+            "Cày đồng đang buổi ban trưa - Mồ hôi thánh thót như mưa ruộng cày.",
+            "Tất cả các ý trên."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 63,
+        "question": "Tìm câu thơ ứng với nôi dung \"nhắc người ta nhớ ơn làm ra hạt gạo\"",
+        "context": "Cày đồng đang buổi ban trưa\nMồ hôi thánh thót như mưa ruộng cày           \nAi ơi bưng bát cơm đầy\nDẻo thơm một hột, đắng cay muôn phần!\n\nƠn trời mưa nắng phải thì \nNơi thì bừa cạn, nơi thì cày sâu. \nCông lênh chẳng quản bao lâu \nNgày nay nước bạc, ngày sau cơm vàng \nAi ơi! chớ bỏ ruộng hoang \nBao nhiêu tấc đất tấc vàng bấy nhiêu.\n\nNgười ta đi cấy lấy công \nTôi nay đi cấy còn trông nhiều bề \nTrông trời, trông đất, trông mây \nTrông mưa, trông nắng, trông ngày, trông đêm\nTrông cho chân cứng đá mềm \nTrời yên biển lặng mới yên tấm lòng",
+        "options": [
+            "Trông cho chân cứng đá mềm  - Trời yên biển lặng mới yên tấm lòng.",
+            "Người ta đi cấy lấy công  - Tôi nay đi cấy còn trông nhiều bề.",
+            "Ai ơi bưng bát cơm đầy - Dẻo thơm một hột, đắng cay muôn phần!.",
+            "Tất cả các ý trên."
+        ],
+        "answers": "C",
+        "prediction": "B"
+    },
+    {
+        "id": 64,
+        "question": "Câu nào thể hiện tinh thần lạc quan của người nông dân?",
+        "context": "Cày đồng đang buổi ban trưa\nMồ hôi thánh thót như mưa ruộng cày           \nAi ơi bưng bát cơm đầy\nDẻo thơm một hột, đắng cay muôn phần!\n\nƠn trời mưa nắng phải thì \nNơi thì bừa cạn, nơi thì cày sâu. \nCông lênh chẳng quản bao lâu \nNgày nay nước bạc, ngày sau cơm vàng \nAi ơi! chớ bỏ ruộng hoang \nBao nhiêu tấc đất tấc vàng bấy nhiêu.\n\nNgười ta đi cấy lấy công \nTôi nay đi cấy còn trông nhiều bề \nTrông trời, trông đất, trông mây \nTrông mưa, trông nắng, trông ngày, trông đêm\nTrông cho chân cứng đá mềm \nTrời yên biển lặng mới yên tấm lòng",
+        "options": [
+            "Ai ơi! chớ bỏ ruộng hoang - Bao nhiêu tấc đất tấc vàng bấy nhiêu.",
+            "Ai ơi bưng bát cơm đầy - Dẻo thơm một hột, đắng cay muôn phần!.",
+            "Công lênh chẳng quản bao lâu - Ngày nay nước bạc, ngày sau cơm vàng.",
+            "Tất cả các ý trên."
+        ],
+        "answers": "C",
+        "prediction": "A"
+    },
+    {
+        "id": 69,
+        "question": "Hai câu thơ \"Trong đạn bom đổ nát / Bừng tươi nụ ngói hồng\" nói lên điều gì?",
+        "context": "Bè ta xuôi sông La\nDẻ cau cùng táu mật\nMuồng đen và trai đất\nLát chun rồi lát hoa.\nSông La ơi sông La\nTrong veo như ánh mắt\nBờ tre xanh im mát\nMươn mướt đôi hàng mi.\nBè đi chiều thầm thì\nGỗ lượn đàn thong thả\nNhư bầy trâu lim dim\nĐằm mình trong êm ả\nSóng long lanh vẩy cá\nChim hót trên bờ đê.\n\nTa nằm nghe, nằm nghe\nGiữa bốn bề ngây ngất\nMùi vôi xây rất say\nMùi lán cưa ngọt mát\nTrong đạn bom đổ nát\nBừng tươi nụ ngói hồng\nĐồng vàng hoa lúa trổ\nKhói nở xòa như bông.",
+        "options": [
+            "Trải qua chiến tranh, đau thương, đổ nát, chỉ còn lại vài mảnh ngói, nếp nhà.",
+            "Trải qua chiến tranh, con người vẫn đứng dậy xây dựng quê hương giàu đẹp.",
+            "Trải qua chiến tranh, đau thương, đổ nát, vẫn tìm thấy ánh sáng của sự sống.",
+            "Tất cả các ý trên."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 71,
+        "question": "Nội dung của bài thơ này là gì?",
+        "context": "Bè ta xuôi sông La\nDẻ cau cùng táu mật\nMuồng đen và trai đất\nLát chun rồi lát hoa.\nSông La ơi sông La\nTrong veo như ánh mắt\nBờ tre xanh im mát\nMươn mướt đôi hàng mi.\nBè đi chiều thầm thì\nGỗ lượn đàn thong thả\nNhư bầy trâu lim dim\nĐằm mình trong êm ả\nSóng long lanh vẩy cá\nChim hót trên bờ đê.\n\nTa nằm nghe, nằm nghe\nGiữa bốn bề ngây ngất\nMùi vôi xây rất say\nMùi lán cưa ngọt mát\nTrong đạn bom đổ nát\nBừng tươi nụ ngói hồng\nĐồng vàng hoa lúa trổ\nKhói nở xòa như bông.",
+        "options": [
+            "Ca ngợi con người sông La tài năng, sức mạnh và nghị lực góp phần dựng xây đất nước.",
+            "Ca ngợi vẻ đẹp con sông và người sông La giàu trí tuệ, nghị lực, góp phần dựng xây đất nước.",
+            "Ca ngợi vẻ đẹp của con sông La.",
+            "Ca ngợi sự giàu đẹp của quê hương: vừa thơ mộng hữu tình vừa giàu tài nguyên thiên nhiên."
+        ],
+        "answers": "B",
+        "prediction": "D"
+    },
+    {
+        "id": 72,
+        "question": "Thông tin trong dòng nào bên dưới không đúng về bài thơ?",
+        "context": "Bè ta xuôi sông La\nDẻ cau cùng táu mật\nMuồng đen và trai đất\nLát chun rồi lát hoa.\nSông La ơi sông La\nTrong veo như ánh mắt\nBờ tre xanh im mát\nMươn mướt đôi hàng mi.\nBè đi chiều thầm thì\nGỗ lượn đàn thong thả\nNhư bầy trâu lim dim\nĐằm mình trong êm ả\nSóng long lanh vẩy cá\nChim hót trên bờ đê.\n\nTa nằm nghe, nằm nghe\nGiữa bốn bề ngây ngất\nMùi vôi xây rất say\nMùi lán cưa ngọt mát\nTrong đạn bom đổ nát\nBừng tươi nụ ngói hồng\nĐồng vàng hoa lúa trổ\nKhói nở xòa như bông.",
+        "options": [
+            "Sông La còn có tên gọi khác là sông Hồng.",
+            "Con sông La nằm trên địa bàn tỉnh Hà Tĩnh.",
+            "Bài thơ do Vũ Duy Thông sáng tác.",
+            "Bài thơ ca ngợi vẻ đẹp con sông và con người sông La."
+        ],
+        "answers": "A",
+        "prediction": "B"
+    },
+    {
+        "id": 73,
+        "question": "Bài thơ này có mấy khổ?",
+        "context": "Ở tận sông Hồng, em có biết\nQuê hương anh cũng có dòng sông\nAnh mãi gọi với lòng tha thiết:\nVàm Cỏ Đông! Ơi Vàm Cỏ Đông!\n\nĐây con sông xuôi dòng nước chảy\nBốn mùa soi từng mảnh mây trời\nTừng ngọn dừa gió đưa phe phẩy\nBóng lồng trên sóng nước chơi vơi.\n\nĐây con sông như dòng sữa mẹ\nNước về xanh ruộng lúa, vườn cây\nVà ăm ắp như lòng người mẹ\nChở tình thương trang trải đêm ngày.",
+        "options": [
+            "Hai khổ.",
+            "Ba khổ.",
+            "Bốn khổ.",
+            "Năm khổ."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 76,
+        "question": "Tại sao tác giả ví con sông quê mình như dòng sữa mẹ?",
+        "context": "Ở tận sông Hồng, em có biết\nQuê hương anh cũng có dòng sông\nAnh mãi gọi với lòng tha thiết:\nVàm Cỏ Đông! Ơi Vàm Cỏ Đông!\n\nĐây con sông xuôi dòng nước chảy\nBốn mùa soi từng mảnh mây trời\nTừng ngọn dừa gió đưa phe phẩy\nBóng lồng trên sóng nước chơi vơi.\n\nĐây con sông như dòng sữa mẹ\nNước về xanh ruộng lúa, vườn cây\nVà ăm ắp như lòng người mẹ\nChở tình thương trang trải đêm ngày.",
+        "options": [
+            "Vì con sông cung cấp nước, phù sa, chở đầy tình thương như người mẹ.",
+            "Vì con sông đem dòng nước ngọt lành tưới xanh ruộng lúa, vườn cây.",
+            "Vì con sông đầy ăm ắp, chở tình thương như lòng người mẹ.",
+            "Vì con sông đem phù sa bồi đắp cho vườn cây, ruộng đồng thêm màu mỡ."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 78,
+        "question": "Các hình ảnh so sánh nào được miêu tả trong đoạn thơ cuối?",
+        "context": "Ở tận sông Hồng, em có biết\nQuê hương anh cũng có dòng sông\nAnh mãi gọi với lòng tha thiết:\nVàm Cỏ Đông! Ơi Vàm Cỏ Đông!\n\nĐây con sông xuôi dòng nước chảy\nBốn mùa soi từng mảnh mây trời\nTừng ngọn dừa gió đưa phe phẩy\nBóng lồng trên sóng nước chơi vơi.\n\nĐây con sông như dòng sữa mẹ\nNước về xanh ruộng lúa, vườn cây\nVà ăm ắp như lòng người mẹ\nChở tình thương trang trải đêm ngày.",
+        "options": [
+            "Con sông - Dòng sữa mẹ.",
+            "Lòng người mẹ - Tình thương đêm ngày.",
+            "Ruộng lúa, vườn cây - Lòng người mẹ.",
+            "Tất cả các ý trên."
+        ],
+        "answers": "A",
+        "prediction": "D"
+    },
+    {
+        "id": 82,
+        "question": "Khi thấy hiện ra những cánh rừng gỗ quý, ông lão ước mong điều gì?",
+        "context": "Xưa có vùng đất toàn đồi cỏ tranh hoặc tre nứa. Gia đình nhà nọ có bốn người phải sống chui rúc trong gian lều ọp ẹp và chật chội.\n\nMột hôm, ông bố vừa chợp mắt, một cánh rừng đầy lim, sến, táu cứng như sắt đã hiện ra. Ông nghĩ bụng: \"Giá vùng ta cũng có những thứ cây nầy thì tha hồ làm nhà ở bền chắc\". Chợt nghe tiếng nhạc, ông ngoảnh lại thì thấy các cô tiên nữ đang múa hát trên đám cỏ xanh. Một cô tiên chạy lại hỏi:\n\n- Ông lão đến đây có việc gì?\n\n- Tôi đi tìm gỗ làm nhà, thấy rừng gỗ quý ở đây mà thèm quá!\n\n- Được, ta cho ông cái hộp này, ông sẽ có tất cả. Nhưng về nhà, ông mới được mở ra!\n\nÔng lão cảm ơn cô tiên rồi bỏ hộp vào túi mang về. Dọc đường, mùi thơm từ chiếc hộp tỏa ra ngào ngạt ông thích quá. Ông lấy hộp ra, định hé xem một tí rồi đậy lại ngay. Nào ngờ, nắp hộp vừa hé thì bao nhiêu cột kèo, ván gỗ tuôn ra ào ào, lao xuống suối trôi mất. Tần ngần một lúc, ông quay lại khu rừng kể rõ sự việc rồi năn nỉ\n\nCô tiên cho cái hộp khác. Đưa ông lão cái hộp thứ hai, cô tiên lại căn dặn:\n\n- Lần này, ta cho lão những thứ quý gấp trăm lần trước. Nhưng nhất thiết phải về đến nhà mới được mở ra!\n\nHộp lần nầy rất nhẹ, không thơm, lắc nghe lốc cốc như hạt đỗ. Ông mang hộp về theo đúng lời tiên dặn...\n\nNghe tiếng chim hót, ông lão choàng tỉnh giấc. Thì ra đó chỉ là giấc mơ. Nghĩ mãi, ông chợt hiểu: \"Cô tiên cho cái hộp quý là có ý bảo ta tìm hạt cây mà gieo trồng, giống như lúa ngô vậy\". Ông liền bảo các con đi xa tìm hạt cây về gieo trồng. Chẳng bao lâu, những đồi tranh, tre nứa đã trở thành rừng gỗ quý. Dân làng lấy gỗ làm nhà, không còn những túp lều lụp xụp như xưa",
+        "options": [
+            "Có vài cây gỗ quý để cho gia đình mình làm nhà ở bền chắc.",
+            "Có rất nhiều gỗ quý để cho dân cả vùng làm nhà ở bền chắc.",
+            "Có thứ cây gỗ quý trên quê mình để dân làm nhà ở bền chắc..",
+            "Có hạt giống cây gỗ quý để trồng, tha hồ làm nhà ở bền chắc.."
+        ],
+        "answers": "C",
+        "prediction": "D"
+    },
+    {
+        "id": 83,
+        "question": "Vì sao ông lão biết các cô tiên nữ múa hát trên đám cỏ xanh?",
+        "context": "Xưa có vùng đất toàn đồi cỏ tranh hoặc tre nứa. Gia đình nhà nọ có bốn người phải sống chui rúc trong gian lều ọp ẹp và chật chội.\n\nMột hôm, ông bố vừa chợp mắt, một cánh rừng đầy lim, sến, táu cứng như sắt đã hiện ra. Ông nghĩ bụng: \"Giá vùng ta cũng có những thứ cây nầy thì tha hồ làm nhà ở bền chắc\". Chợt nghe tiếng nhạc, ông ngoảnh lại thì thấy các cô tiên nữ đang múa hát trên đám cỏ xanh. Một cô tiên chạy lại hỏi:\n\n- Ông lão đến đây có việc gì?\n\n- Tôi đi tìm gỗ làm nhà, thấy rừng gỗ quý ở đây mà thèm quá!\n\n- Được, ta cho ông cái hộp này, ông sẽ có tất cả. Nhưng về nhà, ông mới được mở ra!\n\nÔng lão cảm ơn cô tiên rồi bỏ hộp vào túi mang về. Dọc đường, mùi thơm từ chiếc hộp tỏa ra ngào ngạt ông thích quá. Ông lấy hộp ra, định hé xem một tí rồi đậy lại ngay. Nào ngờ, nắp hộp vừa hé thì bao nhiêu cột kèo, ván gỗ tuôn ra ào ào, lao xuống suối trôi mất. Tần ngần một lúc, ông quay lại khu rừng kể rõ sự việc rồi năn nỉ\n\nCô tiên cho cái hộp khác. Đưa ông lão cái hộp thứ hai, cô tiên lại căn dặn:\n\n- Lần này, ta cho lão những thứ quý gấp trăm lần trước. Nhưng nhất thiết phải về đến nhà mới được mở ra!\n\nHộp lần nầy rất nhẹ, không thơm, lắc nghe lốc cốc như hạt đỗ. Ông mang hộp về theo đúng lời tiên dặn...\n\nNghe tiếng chim hót, ông lão choàng tỉnh giấc. Thì ra đó chỉ là giấc mơ. Nghĩ mãi, ông chợt hiểu: \"Cô tiên cho cái hộp quý là có ý bảo ta tìm hạt cây mà gieo trồng, giống như lúa ngô vậy\". Ông liền bảo các con đi xa tìm hạt cây về gieo trồng. Chẳng bao lâu, những đồi tranh, tre nứa đã trở thành rừng gỗ quý. Dân làng lấy gỗ làm nhà, không còn những túp lều lụp xụp như xưa",
+        "options": [
+            "Vì ông chợt nghe thấy tiếng hát.",
+            "Vì có cô tiên nữ chạy lại hỏi ông.",
+            "Vì ông chợt ngoảnh lại phía sau..",
+            "Vì ông chợt nghe thấy tiếng nhạc.."
+        ],
+        "answers": "D",
+        "prediction": "C"
+    },
+    {
+        "id": 88,
+        "question": "Từ nào dưới đây đồng nghĩa với từ bền chắc?",
+        "context": "Xưa có vùng đất toàn đồi cỏ tranh hoặc tre nứa. Gia đình nhà nọ có bốn người phải sống chui rúc trong gian lều ọp ẹp và chật chội.\n\nMột hôm, ông bố vừa chợp mắt, một cánh rừng đầy lim, sến, táu cứng như sắt đã hiện ra. Ông nghĩ bụng: \"Giá vùng ta cũng có những thứ cây nầy thì tha hồ làm nhà ở bền chắc\". Chợt nghe tiếng nhạc, ông ngoảnh lại thì thấy các cô tiên nữ đang múa hát trên đám cỏ xanh. Một cô tiên chạy lại hỏi:\n\n- Ông lão đến đây có việc gì?\n\n- Tôi đi tìm gỗ làm nhà, thấy rừng gỗ quý ở đây mà thèm quá!\n\n- Được, ta cho ông cái hộp này, ông sẽ có tất cả. Nhưng về nhà, ông mới được mở ra!\n\nÔng lão cảm ơn cô tiên rồi bỏ hộp vào túi mang về. Dọc đường, mùi thơm từ chiếc hộp tỏa ra ngào ngạt ông thích quá. Ông lấy hộp ra, định hé xem một tí rồi đậy lại ngay. Nào ngờ, nắp hộp vừa hé thì bao nhiêu cột kèo, ván gỗ tuôn ra ào ào, lao xuống suối trôi mất. Tần ngần một lúc, ông quay lại khu rừng kể rõ sự việc rồi năn nỉ\n\nCô tiên cho cái hộp khác. Đưa ông lão cái hộp thứ hai, cô tiên lại căn dặn:\n\n- Lần này, ta cho lão những thứ quý gấp trăm lần trước. Nhưng nhất thiết phải về đến nhà mới được mở ra!\n\nHộp lần nầy rất nhẹ, không thơm, lắc nghe lốc cốc như hạt đỗ. Ông mang hộp về theo đúng lời tiên dặn...\n\nNghe tiếng chim hót, ông lão choàng tỉnh giấc. Thì ra đó chỉ là giấc mơ. Nghĩ mãi, ông chợt hiểu: \"Cô tiên cho cái hộp quý là có ý bảo ta tìm hạt cây mà gieo trồng, giống như lúa ngô vậy\". Ông liền bảo các con đi xa tìm hạt cây về gieo trồng. Chẳng bao lâu, những đồi tranh, tre nứa đã trở thành rừng gỗ quý. Dân làng lấy gỗ làm nhà, không còn những túp lều lụp xụp như xưa",
+        "options": [
+            "Bền chí.",
+            "Bền vững.",
+            "Bền bỉ.",
+            "Bền chặt."
+        ],
+        "answers": "B",
+        "prediction": "D"
+    },
+    {
+        "id": 102,
+        "question": "Quà của bố có những gì sau những buổi đi câu về?",
+        "context": "Bố đi câu về, không một lần nào là chúng tôi không có quà. \n\nMở thúng câu ra là cả một thế giới dưới nước: cà cuống, niềng niễng đực, niềng niễng cái bò nhộn nhạo. Hoa sen đỏ, nhị sen vàng tỏa hương thơm lừng. Những con cá sộp, cá chuối quẫy tóe nước, mắt thao láo...\n\nBố đi cắt tóc về, cũng không lần nào chúng tôi không có quà.\n\nMở hòm dụng cụ ra là cả một thế giới mặt đất: con xập xành, con muỗm to xù, mốc thếch, ngó ngoáy. Hấp dẫn nhất là những con dế lạo xạo trong các vỏ bao diêm: toàn dế đực, cánh xoăn, gáy vang nhà và chọi nhau phải biết.\n\nQuà của bó làm anh em tôi giàu quá!",
+        "options": [
+            "Cà cuống, niềng niễng, hoa sen, cá sộp và cá chuối.",
+            "Con chim, con châu chấu và con bướm.",
+            "Con khỉ, con thỏ, con cò hương và con khướu.",
+            "Con xập xành, con muỗm và con dế."
+        ],
+        "answers": "A",
+        "prediction": "D"
+    },
+    {
+        "id": 106,
+        "question": "Nội dung của bài đọc này là gì?",
+        "context": "Bố đi câu về, không một lần nào là chúng tôi không có quà. \n\nMở thúng câu ra là cả một thế giới dưới nước: cà cuống, niềng niễng đực, niềng niễng cái bò nhộn nhạo. Hoa sen đỏ, nhị sen vàng tỏa hương thơm lừng. Những con cá sộp, cá chuối quẫy tóe nước, mắt thao láo...\n\nBố đi cắt tóc về, cũng không lần nào chúng tôi không có quà.\n\nMở hòm dụng cụ ra là cả một thế giới mặt đất: con xập xành, con muỗm to xù, mốc thếch, ngó ngoáy. Hấp dẫn nhất là những con dế lạo xạo trong các vỏ bao diêm: toàn dế đực, cánh xoăn, gáy vang nhà và chọi nhau phải biết.\n\nQuà của bó làm anh em tôi giàu quá!",
+        "options": [
+            "Kỉ niệm của cậu bé về những năm tháng tuổi thơ.",
+            "Tình cảm của bố dành cho các con qua những món quà đơn sơ.",
+            "Những sinh vật sống dưới nước và mặt đất.",
+            "Chuyến đi câu và đi cắt tóc của bố."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 107,
+        "question": "Những món quà mà bố mang về cho các con nói lên điều gì?",
+        "context": "Bố đi câu về, không một lần nào là chúng tôi không có quà. \n\nMở thúng câu ra là cả một thế giới dưới nước: cà cuống, niềng niễng đực, niềng niễng cái bò nhộn nhạo. Hoa sen đỏ, nhị sen vàng tỏa hương thơm lừng. Những con cá sộp, cá chuối quẫy tóe nước, mắt thao láo...\n\nBố đi cắt tóc về, cũng không lần nào chúng tôi không có quà.\n\nMở hòm dụng cụ ra là cả một thế giới mặt đất: con xập xành, con muỗm to xù, mốc thếch, ngó ngoáy. Hấp dẫn nhất là những con dế lạo xạo trong các vỏ bao diêm: toàn dế đực, cánh xoăn, gáy vang nhà và chọi nhau phải biết.\n\nQuà của bó làm anh em tôi giàu quá!",
+        "options": [
+            "Bố rất yêu thương hai anh em.",
+            "Bố rất giỏi đi câu và cắt tóc.",
+            "Bố rất thích đồng quê và sông nước.",
+            "Bố rất thích tặng quà."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 108,
+        "question": "Về dáng vẻ, ông lão ăn xin được miêu tả như thế nào?",
+        "context": "Lúc ấy, tôi đang đi trên phố. Một người ăn xin già lọm khọm đứng ngay trước mặt tôi. \n\nĐôi mắt ông lão đỏ đọc và giàn giụa nước mắt. Đôi môi tái nhợt, áo quần tả tơi thảm hại... Chao ôi! Cảnh nghèo đói đã gặm nát con người đau khổ kia thành xấu xí biết nhường nào!\n\nÔng già chìa trước mặt tôi bàn tay sưng húp, bẩn thỉu. Ông rên rỉ cầu xin cứu giúp.\n\nTôi lục tìm hết túi nọ túi kia, không có tiền, không có đồng hồ, không có cả một chiếc khăn tay. Trên người tôi chẳng có tài sản gì.\n\nNgười ăn xin vẫn đợi tôi. Tay vẫn chìa ra, run lẩy bẩy.\n\nTôi chẳng biết làm cách nào. Tôi nắm chặt lấy bàn tay run rẩy kia:\n\n- Ông đừng giận cháu, cháu không có gì để cho ông cả.\n\nNgười ăn xin nhìn tôi chằm chằm bằng đôi mắt ướt đẫm. Đôi môi tái nhợt nở nụ cười và tay ông cũng xiết lấy tay tôi: \n\n- Cháu ơi, cảm ơn cháu ! Như vậy là cháu đã cho lão rồi. - Ông lão nói bằng giọng khản đặc.\n\nKhi ấy, tôi chợt hiểu rằng: cả tôi nữa, tôi cũng vừa nhận được chút gì của ông lão.",
+        "options": [
+            "Đôi môi tái nhợt.",
+            "Đôi mắt đỏ đọc và giàn giụa nước mắt.",
+            "Áo quần tả tơi thảm hại.",
+            "Người ăn xin già lọm khọm."
+        ],
+        "answers": "D",
+        "prediction": "C"
+    },
+    {
+        "id": 112,
+        "question": "Điều gì được chứng tỏ qua những lời nói và hành động ân cần của cậu bé?",
+        "context": "Lúc ấy, tôi đang đi trên phố. Một người ăn xin già lọm khọm đứng ngay trước mặt tôi. \n\nĐôi mắt ông lão đỏ đọc và giàn giụa nước mắt. Đôi môi tái nhợt, áo quần tả tơi thảm hại... Chao ôi! Cảnh nghèo đói đã gặm nát con người đau khổ kia thành xấu xí biết nhường nào!\n\nÔng già chìa trước mặt tôi bàn tay sưng húp, bẩn thỉu. Ông rên rỉ cầu xin cứu giúp.\n\nTôi lục tìm hết túi nọ túi kia, không có tiền, không có đồng hồ, không có cả một chiếc khăn tay. Trên người tôi chẳng có tài sản gì.\n\nNgười ăn xin vẫn đợi tôi. Tay vẫn chìa ra, run lẩy bẩy.\n\nTôi chẳng biết làm cách nào. Tôi nắm chặt lấy bàn tay run rẩy kia:\n\n- Ông đừng giận cháu, cháu không có gì để cho ông cả.\n\nNgười ăn xin nhìn tôi chằm chằm bằng đôi mắt ướt đẫm. Đôi môi tái nhợt nở nụ cười và tay ông cũng xiết lấy tay tôi: \n\n- Cháu ơi, cảm ơn cháu ! Như vậy là cháu đã cho lão rồi. - Ông lão nói bằng giọng khản đặc.\n\nKhi ấy, tôi chợt hiểu rằng: cả tôi nữa, tôi cũng vừa nhận được chút gì của ông lão.",
+        "options": [
+            "Cậu bé rất thương ông lão ăn xin.",
+            "Cậu bé rất sợ ông lão ăn xin.",
+            "Cậu bé không thích giúp đỡ ông lão ăn xin.",
+            "Cậu bé rất ghét ông lão ăn xin."
+        ],
+        "answers": "A",
+        "prediction": "B"
+    },
+    {
+        "id": 136,
+        "question": "Tình cảm yêu thương và quan tâm của Bác đối với đồng bào miền Nam được thể hiện qua chi tiết nào?",
+        "context": "Đầu năm 1969, một chị cán bộ miền Nam ra Bắc được gặp Bác Hồ.\n\nChị thưa với Bác:\n\n- Chúng cháu đánh giặc Mĩ đến một trăm năm cũng không sợ.\n\nChỉ sợ một điều là Bác... trăm tuổi.\n\nChị đã nói ra điều mọi người hằng nghĩ nhưng không ai dám nhắc đến.\n\nNăm ấy, Bác bảy mươi chín tuổi. Nghe vậy, Bác mỉm cười, hóm hỉnh:\n\n- Còn hai mươi mốt năm nữa Bác mới trăm tuổi cơ. Bác kêu gọi các cô, các chú đánh Mĩ năm năm, mười năm, hai mươi năm chứ có nói hai mươi mốt năm đâu. Nếu hai mươi năm nữa mà ta thắng Mĩ thì Bác cũng còn một năm để vào thăm đồng bào miền Nam.\n\nThật ra, lúc ấy, Bác đã yếu rồi. Tối mồng 1 tháng 9 năm 1969, Bác mệt nặng. Những lúc tỉnh lại, Bác vẫn hỏi:\n\n- Trong Nam mấy hôm nay đánh giặc thế nào?\n\nSắp ra đi mãi mãi, Bác vẫn nghĩ đến miền Nam.",
+        "options": [
+            "Lúc mệt nặng, Bác vẫn hỏi: \"Trong Nam mấy hôm nay đánh giặc thế nào?\".",
+            "Bác mong miền Nam đánh thắng giặc để Bác có dịp vào thăm.",
+            "Trước khi mất, Bác vẫn nghĩ đến miền Nam.",
+            "Bác luôn quan tâm đến chiến sự và mong miền Nam đánh thắng giặc, ngay cả khi Bác đã yếu."
+        ],
+        "answers": "D",
+        "prediction": "C"
+    },
+    {
+        "id": 148,
+        "question": "Từ nào không thể thay thế cho từ Thượng đế trong câu chuyện trên?",
+        "context": "Một cậu bé hỏi mẹ:\nTại sao mẹ lại khóc?\n\nNgười mẹ đáp:\nVì mẹ là một phụ nữ.\nCon không hiểu. – Cậu bé ngơ ngác.\n\nNgười mẹ ôm chặt con và âu yếm:\nCon không bao giờ hiểu được nhưng nó là như thế đấy…\nThời gian trôi đi. Câu bé lại hỏi cha:\n\nSao mẹ lại khóc hả cha ?\nTất cả phụ nữ đều như thế, con yêu ạ. – Người cha mỉm cười đáp.\nKhi cậu bé trở thành một người đàn ông, anh vẫn thường tự hỏi: “ Tại sao phụ nữ lại khóc nhỉ?”\n\nCuối cùng anh ta tìm đến một nhà hiền triết. Nghe hỏi, nhà hiền triết đáp: “ Khi Thượng đế tạo ra phụ nữ, Người đã làm cho họ thật đặc sắc. Người làm cho họ có đôi vai thật cứng cáp để che chở được cả thế giới, đôi tay họ mát lành để săn sóc yêu thương và cho họ một sức mạnh tiềm ẩn để mang nặng đẻ đau.\n\nNgười cho họ một sự dũng cảm để nuôi dưỡng và chăm sóc gia đình, người thân, bạn bè ngay cả trong những lúc mọi người dường như buông trôi, dù có nhọc nhằn đến mấy đi nữa họ cũng không bao giờ than thở… Người cho họ tình cảm để họ yêu thương con cái, ngay cả lúc con họ gây cho họ đau khổ. \n\nNgười cho họ sức mạnh để chăm sóc người chồng của họ, để bảo vệ trái tim anh ta… Người cho họ sự khôn ngoan để biết rằng một người chồng tốt sẽ không bao giờ làm tổn thương vợ mình, hiểu rõ sự chịu đựng của người phụ nữ và cô ta luôn thấp thoáng sau mỗi sự thành công của người chồng.\n\nĐể làm được những việc nhọc nhằn đó, Người đã cho họ những giọt nước mắt để rơi, để họ sử dụng bất cứ lúc nào và đấy là điểm yếu duy nhất của họ. Khi con thấy họ khóc, hãy nói với họ con yêu họ biết bao và nếu họ vẫn khóc, con hãy làm trái tim họ được bình yên.”",
+        "options": [
+            "Ngọc Hoàng.",
+            "Trời.",
+            "Tạo hoá.",
+            "Tự nhiên."
+        ],
+        "answers": "D",
+        "prediction": "B"
+    },
+    {
+        "id": 150,
+        "question": "Vì sao cô bé khóc?",
+        "context": "Một người đàn ông dừng xe trước cửa hàng hoa để mua hoa gửi tặng mẹ qua dịch vụ bưu điện. Mẹ anh sống cách chỗ anh khoảng hơn trăm ki-lô-mét. Vừa bước ra khỏi ô tô, anh thấy một cô bé đầm đìa nước mắt đang lặng lẽ khóc bên vỉa hè. Anh đến gần hỏi cô bé vì sao cô khóc. Cô bé nức nở:\n\n- Cháu muốn mua tặng mẹ cháu một bông hồng. Nhưng cháu chỉ có 75 xu mà giá một bông hồng những 2 đô la. Người đàn ông mỉm cười:\n\n- Đừng khóc nữa! Chú sẽ mua cho cháu một bông. Người đàn ông cẩn thận chọn mua một bông hồng cho cô bé và đặt một bó hồng gửi tặng mẹ qua dịch vụ. Xong anh hỏi cô bé có cần đi nhờ xe về nhà không. Cô bé cảm ơn, rồi chỉ đường cho anh lái xe đến một nghĩa trang, nơi có một ngôi mộ mới đắp. Cô bé chỉ ngôi mộ và nói:\n\n- Đây là nhà của mẹ cháu.\n\nNói xong, cô bé nhẹ nhàng đặt bông hồng lên mộ mẹ. Ngay sau đó, người đàn ông vội vã quay lại cửa hàng hoa. Anh huỷ bỏ dịch vụ gửi hoa và mua một bó hồng thật đẹp. Anh lái xe một mạch về nhà mẹ để trao tận tay bà bó hoa.",
+        "options": [
+            "Vì cô bé không có đủ tiền mua hoa tặng mẹ.",
+            "Vì mẹ cô bé đã mất.",
+            "Vì không có ai đi cùng.",
+            "Vì cô bé có điểm thấp."
+        ],
+        "answers": "A",
+        "prediction": "B"
+    },
+    {
+        "id": 167,
+        "question": "Hình ảnh anh Đóm phát sáng - ngọn đèn lồng so sánh với sự vật nào?",
+        "context": "Mặt trời gác núi\nBóng tối lan dần,\nAnh Đóm chuyên cần\nLên đèn đi gác.\n\nTheo làn gió mát\nĐóm đi rất êm\nĐi suốt một đêm\nLo cho người ngủ.\n\nTiếng chị Cò Bợ:\n\"Ru hỡi! Ru hời!\nHỡi bé tôi ơi,\nNgủ cho ngon giấc\".\n\nNgoài sông thím Vạc\nLặng lẽ mò tôm\nBên cạnh sao Hôm\nLong lanh đáy nước.\n\nTừng bước, từng bước\nVung ngọn đèn lồng\nAnh Đóm quay vòng\nNhư sao bừng nở.\n\nGà đâu rộn rịp\nGáy sáng đằng đông,\nTắt ngọn đèn lồng\nĐóm lui về nghỉ.",
+        "options": [
+            "Mặt trời.",
+            "Đèn.",
+            "Sao.",
+            "Trăng."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 170,
+        "question": "Theo em, quốc vương đặt tiệc mời sứ giả nhằm mục đích gì?",
+        "context": "Ngày xưa, có vị quốc vương nọ có một quy định rất đặc biệt. Bất cứ ai đến tham gia bữa tiệc của ngài đều không được lật giở thức ăn mà chỉ có thể ăn phần bên trên của món ăn đó.\n\nMột sứ giả đến vương quốc này, quốc vương vô cùng vui mừng đặt tiệc chiêu đãi sứ giả. Người hầu bưng ra một đĩa cá rất thơm ngon. Sứ giả không biết quy định của quốc vương liền lật con cá lên.\n\nCác đại thần thấy vậy liền nói: “Thưa bệ hạ, hành động kia đã phạm tội khi quân! Chưa ai dám làm nhục bệ hạ như vậy, ngài phải xử tội sứ giả đó đi!”\n\nQuốc vương thở dài nói với sứ giả: “Ngươi nghe thấy không? Nếu ta không bắt ngươi chết, ta sẽ bị các đại thần cười nhạo. Nhưng vì mối quan hệ tốt đẹp giữa quý quốc và nước ta, trước khi ngươi chết, ta cho phép ngươi cầu xin một việc, ta hứa sẽ thực hiện.”\n\nVị sứ giả nghĩ ngợi một lúc rồi nói: “Việc đã như vậy, tôi chẳng còn cách nào khác. Tôi chỉ xin ngài một ân huệ nhỏ.”\n\nQuốc vương nói: “Được, ngoài cho ngươi tính mạng, còn những yêu cầu khác, ta có thể đáp ứng hết.”\n\nNghe vậy, sứ giả nói: “Thần hi vọng trước khi thần chết, ngài hãy cho thần đôi mắt của những người đã nhìn thấy thần lật con cá đó.”\n\nQuốc vương kinh hãi, vội vàng thề rằng mình không nhìn thấy gì cả, chỉ nghe người khác nói như vậy mà thôi. Tiếp đó đến hoàng hậu bên cạnh cũng nói: “Ta cũng chẳng thấy gì cả”. Các đại thần nhìn nhau, sau đó từng người đứng dậy chỉ tay lên trời và thề mình không nhìn thấy.\n\nCuối cùng, vị sứ giả mỉm cười và đứng dậy nói: “Không có ai nhìn thấy tôi lật con cá, vậy chúng ta tiếp tục dùng bữa nhé!”\n\nVà như vậy, nhờ trí thông minh, vị sứ giả đã giữ được tính mạng của mình.",
+        "options": [
+            "Để tạo ra một cái bẫy nhằm gây chiến với nước láng giềng.",
+            "Ông muốn thử thách trí thông minh của sứ giả nước bạn.",
+            "Ông muốn tỏ rõ sự hiếu khách và trân trọng của mình đối với sứ giả nước bạn.",
+            "Ông muốn cho sứ giả thấy sự giàu có, xa hoa của vương quốc mình."
+        ],
+        "answers": "C",
+        "prediction": "B"
+    },
+    {
+        "id": 178,
+        "question": "Chuyến về thăm quê đã làm cho bạn nhỏ cảm thấy như thế nào?",
+        "context": "Em về quê ngoại nghỉ hè,\nGặp đầm sen nở mà mê hương trời.\nGặp bà tưổi đã tám mươi,\nQuên quên nhớ nhớ những lời ngày xưa.\nGặp trăng gặp gió bất ngờ,\nỞ trong phố chẳng bao giờ có đâu.\nBạn bè ríu rít tìm nhau\nQua con đường đất rực màu rơm phơi.\nBóng tre mát rợp vai người\nVầng trăng như lá thuyền trôi êm đềm.\nVề thăm quê ngoại, lòng em\nYêu thêm cuộc sống, yêu thêm con người:\nEm ăn hạt gạo lâu rồi\nHôm nay mới gặp những người làm ra.\nNhững người chân đất thật thà\nEm thương như thể thương bà ngoại em.",
+        "options": [
+            "Thêm yêu quê hương và cuộc sống thành phố.",
+            "Yêu cảnh đẹp ở quê, yêu những người nông dân.",
+            "Yêu gia đình của mình hơn.",
+            "Yêu con người."
+        ],
+        "answers": "B",
+        "prediction": "A"
+    },
+    {
+        "id": 181,
+        "question": "Ở Đại hội về, anh Núp kể cho dân làng nghe những gì?",
+        "context": "1. Tháng ba, có giấy trên tỉnh kêu anh Núp đi dự Đại hội thi đua. Núp nói với anh Thế:\n\n- Nên để bok Pa đi. Bok kể được nhiều việc hơn tôi.\n\nAnh Thế cười:\n\n- Không, tỉnh kêu anh đi đấy. Đi để học mà.\n\n2. Núp đi Đại hội về giữa lúc Pháp càn quét lớn. Ban ngày, anh chỉ huy đánh giặc, ban đêm kể chuyện Đại hội cho cả làng nghe. Lũ làng ngồi vây quanh anh. Ông sao Rua mọc lên giữa lòng suối như một chùm hạt ngọc. Tay Núp cầm quai súng chặt hơn. Anh nói với lũ làng: Đất nước mình bây giờ mạnh hung rồi. Người Kinh, người Thượng, con gái, con trai, người già, người trẻ đoàn kết đánh giặc, làm rẫy giỏi lắm. Ở Đại hội, Núp cũng lên kể chuyện làng Kông Hoa. Nghe xong, nhiều người chạy lên, đặt Núp trên vai, công kênh đi khắp nhà, mừng không biết bao nhiêu. Cán bộ nói:\n\n- Pháp đánh một trăm năm cũng không thắng nổi đồng chí Núp và làng Kông Hoa đâu!\n\nLũ làng nghe tới đó vui quá, đứng hết dậy:\n\n- Đúng đấy! Đúng đấy!\n\n3. Núp mở những thứ Đại hội tặng cho mọi người coi: một cái ảnh Bok Hồ vác cuốc đi làm rẫy, một bộ quần áo bằng lụa của Bok Hồ, một cây cờ có thêu chữ, một huân chương cho cả làng, một huân chương cho Núp. \n\nLũ làng đi rửa tay thật sạch rồi cầm lên từng thứ, coi đi, coi lại, coi đến mãi nửa đêm.",
+        "options": [
+            "Tình hình kháng chiến toàn quốc.",
+            "Những vị anh hùng dân tộc.",
+            "Những chiến công của Núp.",
+            "Sự giàu đẹp của quê hương."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 188,
+        "question": "Cảnh đẹp của hồ Y-rơ-pao được miêu tả như thế nào?",
+        "context": "Những cơn gió nhẹ làm mặt nước hồ Y-rơ-pao rung động. Bầu trời trong xanh soi bóng xuống đáy hồ, mặt hồ càng xanh thêm và như rộng ra mênh mông.\n\nNơi đây cất lên những tiếng chim ríu rít. Chim đại bàng chân vàng mỏ đỏ đang chao lượn, bóng che rợp mặt đất. Mỗi lần đại bàng vỗ cánh lại phát ra những tiếng vi vu vi vút từ trên nền trời xanh thắm, giống như có hàng trăm chiếc đàn cùng hòa âm. Bầy thiên nga trắng muốt đang bơi lội. Những con chim kơ púc mình đỏ chót và nhỏ như quả ớt cô rướn cặp mỏ thanh mảnh của mình hót lên lanh lảnh nghe như tiếng sáo.\n\nHọ nhà chim đủ các loại, đủ các màu sắc ríu rít bay đến đậu ở những bụi cây quanh hồ, tiếng hót rộn vang cả mặt nước.",
+        "options": [
+            "Mặt nước chao mình rung động.",
+            "Bầu trời trong xanh soi bong xuống đáy hồ làm cho mặt nước hồ càng xanh thêm và như rộng ra mênh mông.",
+            "Họ nhà chim đủ loại, đủ màu sắc đậu ở những bụi cây quanh hồ, tiếng hót rộn rã.",
+            "Tất cả các ý trên."
+        ],
+        "answers": "D",
+        "prediction": "C"
+    },
+    {
+        "id": 189,
+        "question": "Chim đại bàng có những đặc điểm nào đặc biệt so với loài chim khác?",
+        "context": "Những cơn gió nhẹ làm mặt nước hồ Y-rơ-pao rung động. Bầu trời trong xanh soi bóng xuống đáy hồ, mặt hồ càng xanh thêm và như rộng ra mênh mông.\n\nNơi đây cất lên những tiếng chim ríu rít. Chim đại bàng chân vàng mỏ đỏ đang chao lượn, bóng che rợp mặt đất. Mỗi lần đại bàng vỗ cánh lại phát ra những tiếng vi vu vi vút từ trên nền trời xanh thắm, giống như có hàng trăm chiếc đàn cùng hòa âm. Bầy thiên nga trắng muốt đang bơi lội. Những con chim kơ púc mình đỏ chót và nhỏ như quả ớt cô rướn cặp mỏ thanh mảnh của mình hót lên lanh lảnh nghe như tiếng sáo.\n\nHọ nhà chim đủ các loại, đủ các màu sắc ríu rít bay đến đậu ở những bụi cây quanh hồ, tiếng hót rộn vang cả mặt nước.",
+        "options": [
+            "Chân vàng mỏ đỏ.",
+            "Khi chao lượn, bóng che rợp mặt đất.",
+            "Khi vỗ cánh, phát ra những tiếng vi vu vi vút.",
+            "Tất cả các ý trên."
+        ],
+        "answers": "D",
+        "prediction": "A"
+    },
+    {
+        "id": 192,
+        "question": "Qua bài này, chúng ta thấy chim rừng Tây Nguyên như thế nào?",
+        "context": "Những cơn gió nhẹ làm mặt nước hồ Y-rơ-pao rung động. Bầu trời trong xanh soi bóng xuống đáy hồ, mặt hồ càng xanh thêm và như rộng ra mênh mông.\n\nNơi đây cất lên những tiếng chim ríu rít. Chim đại bàng chân vàng mỏ đỏ đang chao lượn, bóng che rợp mặt đất. Mỗi lần đại bàng vỗ cánh lại phát ra những tiếng vi vu vi vút từ trên nền trời xanh thắm, giống như có hàng trăm chiếc đàn cùng hòa âm. Bầy thiên nga trắng muốt đang bơi lội. Những con chim kơ púc mình đỏ chót và nhỏ như quả ớt cô rướn cặp mỏ thanh mảnh của mình hót lên lanh lảnh nghe như tiếng sáo.\n\nHọ nhà chim đủ các loại, đủ các màu sắc ríu rít bay đến đậu ở những bụi cây quanh hồ, tiếng hót rộn vang cả mặt nước.",
+        "options": [
+            "Phong phú đa dạng.",
+            "Có nhiều loại chim đẹp.",
+            "Đa dạng chủng loại và có nhiều loài chim đẹp.",
+            "Chim chỉ sinh sống trên bầu trời."
+        ],
+        "answers": "C",
+        "prediction": "A"
+    },
+    {
+        "id": 196,
+        "question": "Khi phạm tội ăn cắp, người phạm tội sẽ bị xử phạt như thế nào?",
+        "context": "Về cách xử phạt\nChuyện nhỏ thì xử nhẹ, chuyện lớn thì xử nặng; chuyện giữa những người bà con, anh em cũng xử như vậy.\nNếu là chuyện nhỏ thì phạt tiền một song, chuyện lớn thì phạt tiền một co. Nếu là chuyện quá sức con người, gánh không nổi, vác không kham thì người phạm tội phải chịu chết.\n\nVề tang chứng và nhân chứng\nPhải nhìn tận mặt, phải bắt tận tay kẻ phạm tội; phải lấy được, giữ được gùi, khăn, áo, dao,... của kẻ phạm tội. Phải khoanh một vòng tròn dưới đất, khắc một dấu trên cột nhà; nếu ở trong rừng phải bẻ nhánh cây, khắc dấu vào cây rừng để làm dấu nơi xảy ra sự việc.\nPhải có bốn năm người hoặc vài ba người có mặt khi việc xảy ra. Mọi người tai đều đã nghe, mắt đều đã thấy. Có như vậy, các tang chứng mới chắc chắn.\n\nVề các tội\n- Tội không hỏi cha mẹ\nCó cây đa phải hỏi cây đa, có cây sung phải hỏi cây sung, có mẹ cha phải hỏi mẹ cha. Đi rừng lấy củi mà không hỏi cha, đi suối lấy nước mà chẳng nói với mẹ; bán cái này, mua cái nọ mà không hỏi ông già bà cả là sai; phải đưa ra xét xử.\n\n- Tội ăn cắp\nKẻ thò tay ra để đánh cắp của người khác là kẻ có tội. Kẻ đó phải trả lại đủ giá; ngoài ra phải bồi thường gấp đôi số của cải đã lấy cắp.\n\n- Tội giúp kẻ có tội\nKẻ đi cùng đi, bước cùng bước, nói cùng nói với kẻ có tội cũng là có tội.\n\n- Tội dẫn đường cho địch đến đánh làng mình\nKẻ mà địch không đi được thì cõng, địch không ăn được thì mớm, địch không biết thì nói cho biết, làm hàng trăm dân làng bị địch bắt, hàng nghìn dân làng bị địch giết là kẻ có tội lớn. Phải xử kẻ đó bằng dao sắc, gươm lớn và bỏ xác hắn cho diều tha quạ mổ.",
+        "options": [
+            "Phải trả lại đủ giá; ngoài ra phải bồi thường gấp đôi số của cải đã lấy cắp.",
+            "Phải đưa ra xét xử.",
+            "Phải phạt một co.",
+            "Phải xử kẻ đó bằng dao sắc, gươm lớn và bỏ xác hắn cho diều tha quạ mổ."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 203,
+        "question": "Hoa sầu riêng nở vào thời gian nào?",
+        "context": "Sầu riêng là loại trái quý của miền Nam. Hương vị nó hết sức đặc biệt, mùi thơm đậm, bay rất xa, lâu tan trong không khí. Còn hàng chục mét mới tới nơi để sầu riêng, hương đã ngào ngạt xông vào cánh mũi. Sầu riêng thơm mùi của mít chín quyện với hương bưởi, béo cái béo của trứng gà, ngọt cái vị của mật ong già hạn. Hương vị quyến rũ đến kì lạ.\n\nHoa sầu riêng trổ vào cuối năm. Gió đưa hương thơm ngát như hương cau, hương bưởi tỏa khắp khu vườn. Hoa đậu từng chùm, màu trắng ngà. Cánh hoa nhỏ như vảy cá, hao hao giống cánh sen con, lác đác vài nhụy, li ti giữa những cánh hoa. Mỗi cuống hoa ra một trái. Nhìn trái sầu riêng lủng lẳng dưới cành trông giống những tổ kiến. Mùa trái rộ vào tháng tư, tháng năm ta.\n\nĐứng ngắm cây sầu riêng, tôi cứ nghĩ mãi về cái dáng cây kì lạ này. Thân nó khẳng khiu, cao vút, cành ngang thẳng đuột, thiếu cái dáng cong, dáng nghiêng, chiều quằn, chiều lượn của cây xoài, cây nhãn. Lá nhỏ xanh vàng, hơi khép lại, tưởng như lá héo. Vậy mà khi trái chín, hương tỏa ngạt ngào, vị ngọt đến đam mê.",
+        "options": [
+            "Mùa hạ.",
+            "Cuối năm.",
+            "Tháng 4, 5.",
+            "Giữa năm."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 219,
+        "question": "Chị Út tên thật là?",
+        "context": "Một hôm, anh Ba Chẩn gọi tôi vào trong buồng, đúng cái nơi anh giao việc cho ba tôi ngày trước. Anh lấy từ mái nhà xuống bó giấy lớn, rồi hỏi tôi:\n\n- Út có dám rải truyền đơn không?\n\nTôi vừa mừng vừa lo, nói:\n\n- Được, nhưng rải thế nào anh phải chỉ vẽ, em mới làm chớ!\n\nAnh Ba cười, rồi dặn dò tôi tỉ mỉ. Cuối cùng, anh nhắc:\n\n- Rủi địch nó bắt tận tay thì em một mực nói rằng có một anh bảo đây là giấy quảng cáo thuốc. Em không biết chữ nên không biết giấy gì.\n\nNhận công việc vinh dự đầu tiên này, tôi thấy trong người cứ bồn chồn, thấp thỏm. Đêm đó, tôi ngủ không yên, lục đục dậy từ nữa đêm, ngồi nghĩ cách giấu truyền đơn. Khoảng ba giờ sáng, tôi giả đi bán cá như mọi hôm. Tay tôi bê rổ cá, còn bó truyền đơn thì dắt trên lưng quần. Tôi rảo bước và truyền đơn cứ từ từ rơi xuống đất. Gần tới chợ thì vừa hết, trời cũng vừa sáng tỏ.\n\nĐộ tám giờ, nhân dân xì xào ầm lên: “Cộng sản rải giấy nhiều quá!”\n\nMấy tên lính mã tà hớt hải xách súng chạy rầm rầm.\n\nVề đến nhà, tôi khoe ngay kết quả với anh Ba. Anh tôi khen:\n\n- Út làm khá lắm, cứ làm như vậy rồi quen, em ạ!\n\nLần sau, anh tôi lại giao rải truyền đơn tại chợ Mỹ Lồng. Tôi cũng hoàn thành. Làm được một vài việc, tôi bắt đầu ham hoạt động. Tôi tâm sự với anh Ba:\n\n- Em chỉ muốn làm thật nhiều việc cho Cách mạng. Anh cho em thoát li hẳn nghe anh!",
+        "options": [
+            "Nguyễn Thị Út.",
+            "Nguyễn Thị Định.",
+            "Nguyễn Thị Sen.",
+            "Nguyễn Thị Sáu."
+        ],
+        "answers": "B",
+        "prediction": "A"
+    },
+    {
+        "id": 220,
+        "question": "Câu nêu đúng nghĩa của từ “trung hậu”  là gì?",
+        "context": "Một hôm, anh Ba Chẩn gọi tôi vào trong buồng, đúng cái nơi anh giao việc cho ba tôi ngày trước. Anh lấy từ mái nhà xuống bó giấy lớn, rồi hỏi tôi:\n\n- Út có dám rải truyền đơn không?\n\nTôi vừa mừng vừa lo, nói:\n\n- Được, nhưng rải thế nào anh phải chỉ vẽ, em mới làm chớ!\n\nAnh Ba cười, rồi dặn dò tôi tỉ mỉ. Cuối cùng, anh nhắc:\n\n- Rủi địch nó bắt tận tay thì em một mực nói rằng có một anh bảo đây là giấy quảng cáo thuốc. Em không biết chữ nên không biết giấy gì.\n\nNhận công việc vinh dự đầu tiên này, tôi thấy trong người cứ bồn chồn, thấp thỏm. Đêm đó, tôi ngủ không yên, lục đục dậy từ nữa đêm, ngồi nghĩ cách giấu truyền đơn. Khoảng ba giờ sáng, tôi giả đi bán cá như mọi hôm. Tay tôi bê rổ cá, còn bó truyền đơn thì dắt trên lưng quần. Tôi rảo bước và truyền đơn cứ từ từ rơi xuống đất. Gần tới chợ thì vừa hết, trời cũng vừa sáng tỏ.\n\nĐộ tám giờ, nhân dân xì xào ầm lên: “Cộng sản rải giấy nhiều quá!”\n\nMấy tên lính mã tà hớt hải xách súng chạy rầm rầm.\n\nVề đến nhà, tôi khoe ngay kết quả với anh Ba. Anh tôi khen:\n\n- Út làm khá lắm, cứ làm như vậy rồi quen, em ạ!\n\nLần sau, anh tôi lại giao rải truyền đơn tại chợ Mỹ Lồng. Tôi cũng hoàn thành. Làm được một vài việc, tôi bắt đầu ham hoạt động. Tôi tâm sự với anh Ba:\n\n- Em chỉ muốn làm thật nhiều việc cho Cách mạng. Anh cho em thoát li hẳn nghe anh!",
+        "options": [
+            "Biết gánh vác, lo toan mọi việc.",
+            "Có tài năng, khí phách, làm nên những việc phi thường.",
+            "Trung thực, thẳng thắn, giàu lòng nhân ái và tốt bụng với mọi người.",
+            "Có tài và luôn giúp đỡ mọi người."
+        ],
+        "answers": "C",
+        "prediction": "B"
+    },
+    {
+        "id": 221,
+        "question": "Những chữ còn thiếu trong câu tục ngữ, ca dao là: Cá không ăn muối .....................;  Con cãi cha mẹ trăm đường con hư.",
+        "context": "Một hôm, anh Ba Chẩn gọi tôi vào trong buồng, đúng cái nơi anh giao việc cho ba tôi ngày trước. Anh lấy từ mái nhà xuống bó giấy lớn, rồi hỏi tôi:\n\n- Út có dám rải truyền đơn không?\n\nTôi vừa mừng vừa lo, nói:\n\n- Được, nhưng rải thế nào anh phải chỉ vẽ, em mới làm chớ!\n\nAnh Ba cười, rồi dặn dò tôi tỉ mỉ. Cuối cùng, anh nhắc:\n\n- Rủi địch nó bắt tận tay thì em một mực nói rằng có một anh bảo đây là giấy quảng cáo thuốc. Em không biết chữ nên không biết giấy gì.\n\nNhận công việc vinh dự đầu tiên này, tôi thấy trong người cứ bồn chồn, thấp thỏm. Đêm đó, tôi ngủ không yên, lục đục dậy từ nữa đêm, ngồi nghĩ cách giấu truyền đơn. Khoảng ba giờ sáng, tôi giả đi bán cá như mọi hôm. Tay tôi bê rổ cá, còn bó truyền đơn thì dắt trên lưng quần. Tôi rảo bước và truyền đơn cứ từ từ rơi xuống đất. Gần tới chợ thì vừa hết, trời cũng vừa sáng tỏ.\n\nĐộ tám giờ, nhân dân xì xào ầm lên: “Cộng sản rải giấy nhiều quá!”\n\nMấy tên lính mã tà hớt hải xách súng chạy rầm rầm.\n\nVề đến nhà, tôi khoe ngay kết quả với anh Ba. Anh tôi khen:\n\n- Út làm khá lắm, cứ làm như vậy rồi quen, em ạ!\n\nLần sau, anh tôi lại giao rải truyền đơn tại chợ Mỹ Lồng. Tôi cũng hoàn thành. Làm được một vài việc, tôi bắt đầu ham hoạt động. Tôi tâm sự với anh Ba:\n\n- Em chỉ muốn làm thật nhiều việc cho Cách mạng. Anh cho em thoát li hẳn nghe anh!",
+        "options": [
+            "Cá ươn.",
+            "Cá ngon.",
+            "Cá hư.",
+            "Cá hôi."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 225,
+        "question": "Dòng nào dưới đây nhận xét KHÔNG đúng về Rùa và Thỏ?",
+        "context": "Truyện ngụ ngôn “Rùa và Thỏ” chắc hẳn đã rất quen thuộc với chúng ta. Ở cuộc đua thứ nhất, thỏ vì chủ quan nên đã thua cuộc còn rùa kiên trì và bền bỉ nên giành chiến thắng. Câu chuyện chưa dừng lại ở đó và được được Roberto Goizueta, Giám đốc Điều hành của Coca Cola trong những năm 1980 phát triển thêm:\n\nSau cuộc đua thứ nhất, thỏ nhận ra rằng nó thua vì quá tự tin, bất cẩn và thiếu kỷ luật. Nếu nó không xem mọi thứ quá dễ dàng và chắc thắng thì rùa không thể nào có cửa hạ nó được. Vì thế, nó thách thức một cuộc đua mới. Rùa đồng ý. Ở cuộc đua thứ 2, thỏ chạy với tất cả sức lực của nó và chạy liền một mạch về đích. Nó bỏ xa rùa đến mấy dặm đường.\n\nRùa đã suy ngẫm kết quả và nhận ra rằng: nó không có cách nào để thắng được thỏ trên một đường đua như vậy. Nó suy nghĩ thêm và quyết định thách đố thỏ trong một cuộc đua khác, nhưng có chút thay đổi về đường đua. Thỏ đồng ý, rồi cả hai bắt đầu cuộc đua thứ ba. Như đã tự hứa với lòng mình là phải luôn nhanh, Thỏ bắt đầu chạy và chạy với tốc độ cao nhất cho tới bờ sông. Vạch đích còn đến 2km ở tận bên kia sông.Thỏ đành ngồi xuống và tự hỏi không biết phải làm sao để vượt sông. Trong lúc đó, rùa đã tới bên bờ sông, lội xuống sông và bơi sang bên kia sông, tiếp tục bò về đích.\n\nCâu chuyện vẫn chưa dừng lại.\n\nĐến đây, thỏ và rùa đã trở thành đôi bạn thân thiết và họ cùng nhau suy ngẫm. Cả hai nhận ra rằng cuộc đua sau cùng có lẽ sẽ có kết quả tốt hơn. Vì thế, chúng quyết định tổ chức một cuộc đua cuối cùng, nhưng chúng sẽ cùng chạy chung một đội. Cuộc đua bắt đầu, thỏ cõng rùa chạy đến bên bờ sông, rùa lội xuống sông và cõng thỏ bơi qua bên kia bờ sông. Lên đến bờ, thỏ lại cõng rùa đưa cả hai cùng về đích. Và chúng cùng nhận ra rằng đã về đích sớm hơn rất nhiều so với các lần đua trước.",
+        "options": [
+            "Cả Thỏ và Rùa đều không dễ đầu hàng hay nản chí sau thất bại.",
+            "Thỏ quyết tâm và cố gắng nhiều hơn sau khi phải thất bại cay đắng.",
+            "Rùa phải thay đổi chiến lược vì nó đã cố gắng hết sức mà chưa thành công.",
+            "Rùa và Thỏ là những con vật dễ bỏ cuộc."
+        ],
+        "answers": "D",
+        "prediction": "C"
+    },
+    {
+        "id": 232,
+        "question": "Cá đối vào cửa sông để làm gì?",
+        "context": "Là cửa nhưng không then khóa\nCũng không khép lại bao giờ\nMênh mông một vùng sóng nước\nMở ra bao nỗi đợi chờ.\n\nNơi những dòng sông cần mẫn\nGửi lại phù sa bãi bồi\nĐể nước ngọt ùa ra biển\nSau cuộc hành trình xa xôi.\n\nNơi biển tìm về với đất\nBằng con sóng nhớ bạc đầu\nChất muối hòa trong vị ngọt\nThành vũng nước lợ nông sâu.\n\nNơi cá đối vào đẻ trứng\nNơi tôm rảo đến búng càng\nCần câu uốn cong lưỡi sóng\nThuyền ai lấp lóa đêm trăng.\n\nNơi con tàu chào mặt đất\nCòi ngân lên khúc giã từ\nCửa sông tiễn người ra biển\nMây trắng lành như phong thư.\n\nDù giáp mặt cùng biển rộng\nCửa sông chẳng dứt cội nguồn\nLá xanh mỗi lần trôi xuống\nBỗng… nhớ một vùng núi non",
+        "options": [
+            "Để đẻ.",
+            "Để sinh sống.",
+            "Để dạo chơi.",
+            "Để tìm về nơi bình yên."
+        ],
+        "answers": "D",
+        "prediction": "A"
+    },
+    {
+        "id": 242,
+        "question": "Dòng nào dưới đây chỉ gồm các từ láy?",
+        "context": "Ngay từ nhỏ, Trương Bạch đã rất yêu thích thiên nhiên. Lúc nhàn rỗi, cậu nặn những con giống bằng đất sét trông y như thật.\n\nLớn lên, Trương Bạch xin đi làm ở một cửa hàng đồ ngọc. Anh say mê làm việc hết mình, không bao giờ chịu dừng khi thấy những chỗ cần gia công tinh tế mà mình chưa làm được. Sự kiên nhẫn của Trương Bạch khiến người dạy nghề cũng phải kinh ngạc.\n\nMột hôm có người mang một khối ngọc thạch đến và nhờ anh tạc cho một pho tượng Quan Âm. Trương Bạch tự nhủ sẽ gắng công tạo nên một tác phẩm tuyệt trần, mĩ mãn.\n\nPho tượng làm xong, quả là một tác phẩm trác tuyệt. Từ dung mạo đến dáng vẻ của Quan Âm đều toát lên sự ung dung và cực kì mĩ lệ. Điều vô cùng lí thú là pho tượng sống động đến lạ lùng, giống như một người sống vậy. Nếu đi một ṿòng xung quanh pho tượng, đôi mắt Quan Âm như biết nhìn theo. Hiển nhiên đây là điều không thể nào tưởng tượng nổi.",
+        "options": [
+            "Ung dung, sống động, mỹ lệ.",
+            "Ung dung, lạ lùng, tưởng tượng.",
+            "Sống động, lạ lùng, mỹ mãn.",
+            "Tưởng tượng, lạ lùng, mỹ lệ."
+        ],
+        "answers": "B",
+        "prediction": "A"
+    },
+    {
+        "id": 263,
+        "question": "Từ “búp vàng” trong câu “Những ngọn bạch đàn chanh cao vút ấy bỗng chốc đâm những “búp vàng”.” chỉ gì?",
+        "context": "Bầu trời ngoài cửa sổ của bé Hà thường đầy ánh sáng, đầy màu sắc. Ở đấy, Hà thấy bao nhiêu điều lạ. Một đàn vàng anh, vàng như dát vàng lên lông, lên cánh, mà con trống bao giờ cũng to hơn, óng ánh sắc lông hơn chợt bay đến rồi chợt bay đi. Nhưng có lúc, đàn vàng anh ấy đậu lên ngọn chót vót những cây bạch đàn chanh cao nhất giữa bầu trời ngoài cửa sổ. Những ngọn bạch đàn chanh cao vút ấy bỗng chốc đâm những “búp vàng”. Rồi từ trên chót vót cao, vàng anh trống cất tiếng hót. Tiếng hót mang theo hương thơm lá bạch đàn chanh từ bầu trời bay vào cửa sổ. Đàn chim chớp cánh vàng khoe sắc với nắng rực rỡ, và tiếng chim lại như những chuỗi vàng lọc nắng bay đến với Hà. Chốc sau, đàn chim chao cánh bay đi, nhưng tiếng hót như đọng mãi giữa bầu trời ngoài cửa sổ.",
+        "options": [
+            "Chỉ vàng anh.",
+            "Ngọn bạch đàn.",
+            "Ánh nắng trời.",
+            "Ánh sáng thời đại."
+        ],
+        "answers": "B",
+        "prediction": "A"
+    },
+    {
+        "id": 264,
+        "question": "Vì sao nói đàn chim đã bay đi nhưng tiếng hót như “đọng mãi giữa bầu trời ngoài cửa sổ”?",
+        "context": "Bầu trời ngoài cửa sổ của bé Hà thường đầy ánh sáng, đầy màu sắc. Ở đấy, Hà thấy bao nhiêu điều lạ. Một đàn vàng anh, vàng như dát vàng lên lông, lên cánh, mà con trống bao giờ cũng to hơn, óng ánh sắc lông hơn chợt bay đến rồi chợt bay đi. Nhưng có lúc, đàn vàng anh ấy đậu lên ngọn chót vót những cây bạch đàn chanh cao nhất giữa bầu trời ngoài cửa sổ. Những ngọn bạch đàn chanh cao vút ấy bỗng chốc đâm những “búp vàng”. Rồi từ trên chót vót cao, vàng anh trống cất tiếng hót. Tiếng hót mang theo hương thơm lá bạch đàn chanh từ bầu trời bay vào cửa sổ. Đàn chim chớp cánh vàng khoe sắc với nắng rực rỡ, và tiếng chim lại như những chuỗi vàng lọc nắng bay đến với Hà. Chốc sau, đàn chim chao cánh bay đi, nhưng tiếng hót như đọng mãi giữa bầu trời ngoài cửa sổ.",
+        "options": [
+            "Vì tiếng hót còn ngân nga mãi trong không gian.",
+            "Vì tiếng hót cứ âm vang mãi trong tâm trí của bé Hà.",
+            "Vì tiếng hót còn lưu luyến mãi với cửa sổ của bé Hà.",
+            "Vì có tiếng chim thanh thót."
+        ],
+        "answers": "B",
+        "prediction": "A"
+    },
+    {
+        "id": 274,
+        "question": "Tác giả miêu tả tiếng hót của chim chiền chiện như thế nào?",
+        "context": "Đã vào mùa thu…        \n\nĐám cỏ may đã hết cái thời hoa giăng một dải tím ngắt mặt đê, cỏ đã vào quả để lại những chấm bạc có đuôi nhọn như kim, găm vào đầy hai ống quần, mỗi khi ai sơ ý đi qua lối cỏ.\n\nChim chiền chiện vẫn lang thang kiếm ăn trong các bụi cỏ may già, trên đồng, trên bãi. Chiền chiện giống sẻ đồng nhưng áo không một màu nâu sồng như chim sẻ. Áo của chiền chiện màu đồng thau, đốm đậm đốm nhạt rất hài hòa. Chiền chiện chân cao và mảnh, đầu rất đẹp. Trông dáng vẻ của chiền chiện như thể một kị sĩ đồng xưa bị tội ở trên trời, nên Thượng đế đã hóa phép ẩn mình trong kiếp chim bé nhỏ.\n\nChiều thu buông xuống dần. Đó là lúc chim cũng kiếm ăn no nê, trên bãi trên đồng. Từ một bờ sông, bỗng một cánh chiền chiện bay lên. Thoạt đầu như một viên đá ném vút lên trời, nhưng viên đá ấy như có một sức thần không rơi xuống, nó cứ lao vút, lao vút mãi lên chín tầng mây…\n\nChiền chiện bay lên đấy!\n\nTheo với tiếng chim bay lên, từ không trung vọng xuống một tiếng hót trong sáng diệu kì, giọng rúi ran đổ hồi, âm điệu hài hòa đến tinh tế. Giọng hót vừa đượm vẻ hồn nhiên, vừa thơ thới, thanh thản…. Chim gieo niềm yêu đời vô tư cho những người lam lũ trên mặt đất. Lúc ấy, trên cánh đồng, vẫn người nào việc ấy. Người làm cỏ vẫn làm cỏ, người xới xáo vẫn xới xáo, người cày cuốc vẫn cày cuốc…. Nhưng tiếng chim hồn hậu đang nhập lặng lẽ vào tâm hồn họ.\n\nĐến như tôi, một cậu bé chăn trâu bảy, tám tuổi đầu cũng mê đi trong tiếng hót chiền chiện giữa chiều mà bầu trời, mặt đất, hồn người đều trong sáng…. Tiếng chim là tiếng hót của thiên sứ gửi lời chào mặt đất.\n\nChiền chiện đã bay lên và đang hót.",
+        "options": [
+            "Trong sáng diệu kì, giọng rúi ran đổ hồi, âm điệu hài hòa đến tinh tế.",
+            "Trong veo, líu lo, thánh thót, như hàng trăm chiếc đàn cùng hòa tấu.",
+            "Lảnh lót, vui tươi, tràn đầy tình yêu cuộc sống.",
+            "Lảnh lót, vui tươi, và tràn đầy niềm yêu thương."
+        ],
+        "answers": "A",
+        "prediction": "D"
+    },
+    {
+        "id": 283,
+        "question": "Câu nói của bố Nga có nghĩa gì?",
+        "context": "Chú Nga đi bộ đội\nSao lâu quá là lâu!\nNhớ chú, Nga thường nhắc: \n- Chú bây giờ ở đâu?\nChú ở đâu, ở đâu?\nTrường Sơn dài dằng dặc?\nTrường Sa đảo nổi, chìm\nHay Kon Tum, Đắk Lắk?\nMẹ đỏ hoe đôi mắt\nBa ngước lên bàn thờ:\n- Đất nước không còn giặc\nChú ở bên Bác Hồ.",
+        "options": [
+            "Chú của Nga đã hi sinh.",
+            "Chú của Nga vẫn đang chiến đấu trên chiến trường.",
+            "Chú của Nga vẫn ngày đêm canh gác nơi đảo xa.",
+            "Chú của Nga vẫn còn sống."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 284,
+        "question": "Nội dung của bài thơ này là gì?",
+        "context": "Chú Nga đi bộ đội\nSao lâu quá là lâu!\nNhớ chú, Nga thường nhắc: \n- Chú bây giờ ở đâu?\nChú ở đâu, ở đâu?\nTrường Sơn dài dằng dặc?\nTrường Sa đảo nổi, chìm\nHay Kon Tum, Đắk Lắk?\nMẹ đỏ hoe đôi mắt\nBa ngước lên bàn thờ:\n- Đất nước không còn giặc\nChú ở bên Bác Hồ.",
+        "options": [
+            "Tình cảm của cha mẹ bé Nga dành cho người chú đã hi sinh trên chiến trường và Bác Hồ vĩ đại.",
+            "Tình cảm ngây thơ và trong sáng của em nhỏ trước những tàn khốc mà chiến tranh gây ra.",
+            "Tình cảm nhớ thương của bé Nga đối với người chú đang chiến đấu anh dũng trên chiến trường.",
+            "Tình cảm tiếc thương và biết ơn sâu sắc của những người trong gia đình bé Nga đối với liệt sĩ đã hi sinh vì Tổ quốc."
+        ],
+        "answers": "D",
+        "prediction": "C"
+    },
+    {
+        "id": 286,
+        "question": "Những cánh hoa cà phê được miêu tả trong bài như thế nào?",
+        "context": "Mùa hoa cà phê nở, cả đất trời Đắk Lắk dường như tinh khiết hoa, đằm thắm hơn và duyên dáng hơn.\nNhững cánh hoa trắng mong manh và nhỏ bé nhưng lại tạo ra mùi hương quyến rũ đến kì diệu. Khi cà phê vào mùa trổ bông, cả đất trời Đắk Lắk đều ngan ngát một mùi thơm vừa nồng nàn, vừa tinh khiết. Đi đến đâu cũng ngửi thấy mùi thơm ngào ngạt, quyến rũ ấy. Hương cà phê len lỏi vào tận các ngõ ngách, quyện vào tóc, thấm vào từng tế bào của người dân Ban Mê, nên trong hơi thở, giọng nói của họ đều tỏa ra mùi hương kì diệu. Nếu đến đó vào mùa hoa cà phê nở rộ, bạn sẽ được hít thở mùi hương thơm nồng nàn, ngọt lịm đến đặc quánh lại ấy.\nHoa cà phê có mùi thơm đậm và ngọt nên thường bay theo gió đi rất xa. Ong bướm từ khắp nơi cứ theo cái mùi quyến rũ đó mà về hút nhụy, nhả mật. Cứ đến tháng mười một, mười hai, khi những cánh hoa bung ra một màu trắng xóa là từng đàn ong bướm từ khắp nơi đổ về vườn tạo thành một bức tranh đẹp và sinh động.",
+        "options": [
+            "Trắng, mong manh, nhỏ bé.",
+            "Trắng và có mùi hương thoang thoảng, say mê lòng người.",
+            "Trắng, mong manh, nhỏ bé và có mùi hương quyến rũ.",
+            "Trắng và có mùi hương quyến rũ."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 288,
+        "question": "Hương hoa cà phê đã quyết rũ những con vật nào?",
+        "context": "Mùa hoa cà phê nở, cả đất trời Đắk Lắk dường như tinh khiết hoa, đằm thắm hơn và duyên dáng hơn.\nNhững cánh hoa trắng mong manh và nhỏ bé nhưng lại tạo ra mùi hương quyến rũ đến kì diệu. Khi cà phê vào mùa trổ bông, cả đất trời Đắk Lắk đều ngan ngát một mùi thơm vừa nồng nàn, vừa tinh khiết. Đi đến đâu cũng ngửi thấy mùi thơm ngào ngạt, quyến rũ ấy. Hương cà phê len lỏi vào tận các ngõ ngách, quyện vào tóc, thấm vào từng tế bào của người dân Ban Mê, nên trong hơi thở, giọng nói của họ đều tỏa ra mùi hương kì diệu. Nếu đến đó vào mùa hoa cà phê nở rộ, bạn sẽ được hít thở mùi hương thơm nồng nàn, ngọt lịm đến đặc quánh lại ấy.\nHoa cà phê có mùi thơm đậm và ngọt nên thường bay theo gió đi rất xa. Ong bướm từ khắp nơi cứ theo cái mùi quyến rũ đó mà về hút nhụy, nhả mật. Cứ đến tháng mười một, mười hai, khi những cánh hoa bung ra một màu trắng xóa là từng đàn ong bướm từ khắp nơi đổ về vườn tạo thành một bức tranh đẹp và sinh động.",
+        "options": [
+            "Con ong và con bướm.",
+            "Con chim.",
+            "Con ong.",
+            "Con bướm."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 289,
+        "question": "Vào mùa nào hoa cà phê nở?",
+        "context": "Mùa hoa cà phê nở, cả đất trời Đắk Lắk dường như tinh khiết hoa, đằm thắm hơn và duyên dáng hơn.\nNhững cánh hoa trắng mong manh và nhỏ bé nhưng lại tạo ra mùi hương quyến rũ đến kì diệu. Khi cà phê vào mùa trổ bông, cả đất trời Đắk Lắk đều ngan ngát một mùi thơm vừa nồng nàn, vừa tinh khiết. Đi đến đâu cũng ngửi thấy mùi thơm ngào ngạt, quyến rũ ấy. Hương cà phê len lỏi vào tận các ngõ ngách, quyện vào tóc, thấm vào từng tế bào của người dân Ban Mê, nên trong hơi thở, giọng nói của họ đều tỏa ra mùi hương kì diệu. Nếu đến đó vào mùa hoa cà phê nở rộ, bạn sẽ được hít thở mùi hương thơm nồng nàn, ngọt lịm đến đặc quánh lại ấy.\nHoa cà phê có mùi thơm đậm và ngọt nên thường bay theo gió đi rất xa. Ong bướm từ khắp nơi cứ theo cái mùi quyến rũ đó mà về hút nhụy, nhả mật. Cứ đến tháng mười một, mười hai, khi những cánh hoa bung ra một màu trắng xóa là từng đàn ong bướm từ khắp nơi đổ về vườn tạo thành một bức tranh đẹp và sinh động.",
+        "options": [
+            "Mùa xuân.",
+            "Mùa hè.",
+            "Mùa đông.",
+            "Mùa thu."
+        ],
+        "answers": "A",
+        "prediction": "D"
+    },
+    {
+        "id": 296,
+        "question": "Vì sao chú Lý lại tìm đến và cảm ơn hai chị em?",
+        "context": "1. Ở nhiều nơi trong thành phố, người ta dán quảng cáo về buổi biểu diễn của một nhà ảo thuật Trung Quốc nổi tiếng. Chiều nay, trường của Xô-phi và Mác tổ chức cho học sinh đi xem. Nhưng hai chị em không dám xin tiền mua vé vì bố đang nằm viện, các em biết mẹ rất cần tiền.\n\n2. Tình cờ trong lúc ra ga mua sữa, hai chị em gặp chú Lý, nhà ảo thuật. Các em giúp chú mang những đồ đạc lỉnh kỉnh đến rạp xiếc. Biết hai chị em thích xem ảo thuật, chú Lý bảo các em chờ một lát. Nhưng chị em Xô-phi đã về ngay vì nhớ lời mẹ dặn không được làm phiền người khác.\n\n3. Thế rồi, chẳng biết hỏi thăm ai, buổi tối hôm ấy, chú Lý tìm tới nhà. Lúc đó, mẹ đang chuẩn bị bữa tối. Bước vào nhà, chú nói:\n\n- Tôi đến để cảm ơn các con chị. Các cháu rất ngoan.\n\n4. Mẹ mời chú Lý uống trà. Chú nhận lời. Nhưng từ lúc ngồi vào bàn, cả nhà cứ chứng kiến hết bất ngờ này đến bất ngờ khác. Xô-phi lấy một cái bánh, đến lúc đặt vào đĩa lại thành hai cái. Khi mẹ mở nắp lọ đường, có hàng mét dải băng đỏ, xanh, vàng bắn ra. Còn Mác đang ngồi bỗng cảm thấy có một khối nóng mềm trên chân. Hóa ra đó là một chú thỏ trắng mắt hồng.\n\nHai chị em thán phục nhìn chú Lý. Đúng là một nhà ảo thuật đại tài.",
+        "options": [
+            "Vì đã biết nghĩ cho bố mẹ.",
+            "Vì trung thực, không gian dối.",
+            "Vì đã giúp đỡ chú xách đồ.",
+            "Tất cả các ý trên."
+        ],
+        "answers": "C",
+        "prediction": "A"
+    },
+    {
+        "id": 297,
+        "question": "Hai chị em Xô-phi đã được xem ảo thuật chưa?",
+        "context": "1. Ở nhiều nơi trong thành phố, người ta dán quảng cáo về buổi biểu diễn của một nhà ảo thuật Trung Quốc nổi tiếng. Chiều nay, trường của Xô-phi và Mác tổ chức cho học sinh đi xem. Nhưng hai chị em không dám xin tiền mua vé vì bố đang nằm viện, các em biết mẹ rất cần tiền.\n\n2. Tình cờ trong lúc ra ga mua sữa, hai chị em gặp chú Lý, nhà ảo thuật. Các em giúp chú mang những đồ đạc lỉnh kỉnh đến rạp xiếc. Biết hai chị em thích xem ảo thuật, chú Lý bảo các em chờ một lát. Nhưng chị em Xô-phi đã về ngay vì nhớ lời mẹ dặn không được làm phiền người khác.\n\n3. Thế rồi, chẳng biết hỏi thăm ai, buổi tối hôm ấy, chú Lý tìm tới nhà. Lúc đó, mẹ đang chuẩn bị bữa tối. Bước vào nhà, chú nói:\n\n- Tôi đến để cảm ơn các con chị. Các cháu rất ngoan.\n\n4. Mẹ mời chú Lý uống trà. Chú nhận lời. Nhưng từ lúc ngồi vào bàn, cả nhà cứ chứng kiến hết bất ngờ này đến bất ngờ khác. Xô-phi lấy một cái bánh, đến lúc đặt vào đĩa lại thành hai cái. Khi mẹ mở nắp lọ đường, có hàng mét dải băng đỏ, xanh, vàng bắn ra. Còn Mác đang ngồi bỗng cảm thấy có một khối nóng mềm trên chân. Hóa ra đó là một chú thỏ trắng mắt hồng.\n\nHai chị em thán phục nhìn chú Lý. Đúng là một nhà ảo thuật đại tài.",
+        "options": [
+            "Hai chị em đã được xem ảo thuật rồi.",
+            "Hai chị em chưa được xem ảo thuật.",
+            "Hai chị em đang xem ảo thuật.",
+            "Hai chị em sẽ được xem trong vài ngày tới."
+        ],
+        "answers": "A",
+        "prediction": "B"
+    },
+    {
+        "id": 300,
+        "question": "Từ ngữ nào dưới đây tả thân cây đa?",
+        "context": "Cây đa nghìn năm đã gắn liền với thời thơ ấu của chúng tôi. Nói đúng hơn, đó là cả một tòa cổ kính hơn là cả một thân cây. Chín, mười đứa bé chúng tôi bắt tay nhau ôm không xuể. Cành cây lớn hơn cột đình. Đỉnh chót vót giữa trời xanh, đến những con quạ đậu trên cao nhìn cũng chẳng rõ. Rễ cây nổi lên mặt đất thành những hình thù quái lạ, như những con rắn hổ mang giận dữ. Trong vòm lá, gió chiều gẩy lên những diệu nhạc li kí, có khi tưởng chừng như ai cười ai nói trong cành lá.\n\nChiều chiều, chúng tôi ra ngồi gốc đa hóng mát. Lúa vàng gợn sóng. Xa xa giữa cánh đồng, đàn trâu bắt đầu ra về, lững thững từng bước nặng nề, bóng sừng trâu dưới ánh chiều, kéo dài lan giữa ruộng đồng yên lặng.",
+        "options": [
+            "Rất to.",
+            "Ôm không xuể.",
+            "Lớn hơn cột đình.",
+            "Chót vót."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 308,
+        "question": "Khi yêu tinh bỏ chạy, bốn anh em tiếp đã làm gì tiếp theo?",
+        "context": "Bốn anh em tìm tới chỗ yêu tinh ở. Nơi đây bản làng vắng teo, chỉ còn mỗi một bà cụ được yêu tinh cho sống sót để chăn bò cho nó. Thấy anh em Cẩu Khây kêu đói, bà cụ nấu cơm cho ăn. Ăn no, bốn cậu bé lăn ra ngủ. Tờ mờ sáng, bỗng có tiếng đập cửa. Biết yêu tinh đã đánh hơi thấy thịt trẻ con, bà cụ liền lay anh em Cẩu Khây dậy, giục chạy trốn. Cẩu Khây bèn nói:\n\n- Bà đừng sợ, anh em chúng cháu đến đây để bắt yêu tinh đấy.\n\nCẩu Khây hé cửa. Yêu tinh thò đầu vào, lè lưỡi dài như quả núc nác, trợn mắt xanh lè. Nắm Tay Đóng Cọc đấm một cái làm nó gãy gần hết hàm răng. Yêu tinh bỏ chạy. Bốn anh em Cẩu Khây liền đuổi theo nó. Cẩu Khây nhổ cây bên đường quật túi bụi. Yêu tinh đau quá hét lên, gió bão nổi ầm ầm, đất trời tối sầm lại. Đến một thung lũng, yêu tinh dừng lại, phun nước ra như mưa. Nước dâng ngập cả cánh đồng. Nắm Tay Đóng Cọc đóng cọc be bờ ngăn nước lụt, Lấy Tai Tát Nước tát nước ầm ầm qua núi cao, Móng Tay Đục Máng ngả cây khoét máng, khơi dòng nước chảy đi. Chỉ một lúc, mặt đất lại cạn khô. Yêu tinh núng thế, đành phải quy hàng.\n\nTừ đấy, bản làng lại đông vui.",
+        "options": [
+            "Đuổi theo, nhổ cây bên đường quật túi bụi.",
+            "Móng Tay Đục Máng dẫn nước từ biển làm yêu tinh chết đuối.",
+            "Đuổi theo, bao vây và lấy thừng trói yêu tinh.",
+            "Nắm Tay Đóng Cọc đấm xuống đất làm yêu tinh rơi xuống vực sâu."
+        ],
+        "answers": "A",
+        "prediction": "B"
+    },
+    {
+        "id": 318,
+        "question": "Người anh và người em quan niệm thế nào là công bằng?",
+        "context": "1. Ở cánh đồng nọ, có hai anh em cày chung một đám ruộng. Ngày mùa đến, họ gặt rồi bó lúa chất thành hai đống bằng nhau, để cả ở ngoài đồng.\n\n2. Đêm hôm ấy, người em nghĩ: \"Anh mình còn phải nuôi vợ con. Nếu phần lúa của mình cũng bằng phần lúa của anh thì thật không công bằng\". Nghĩ vậy, người em ra đồng lấy đống lúa của mình bỏ thêm vào phần của anh.\n\n3. Cũng đêm ấy, người anh bàn với vợ: \"Em ta sống một mình vất vả. Nếu phần của ta cũng bằng phần của chú ấy thì thật không công bằng.\" Thế rồi anh ra đồng lấy lúa của mình bỏ thêm vào phần của em.\n\n4. Sáng hôm sau, hai anh em cùng ra đồng. Họ rất đỗi ngạc nhiên khi thấy hai đống lúa vẫn bằng nhau.\n\nCho đến một đêm, hai anh em đều ra đồng, rình xem vì sao có sự kì lạ đó. Họ bắt gặp nhau, mỗi người đang ôm trong tay những bó lúa định bỏ thêm cho người kia. Cả hai xúc động, ôm chầm lấy nhau.",
+        "options": [
+            "Phần của mình ít hơn phần của người kia.",
+            "Mình phải được tất cả phần lúa.",
+            "Phần của mình phải được nhiều hơn người kia.",
+            "Phần của mình bằng với phần của người kia."
+        ],
+        "answers": "A",
+        "prediction": "D"
+    },
+    {
+        "id": 323,
+        "question": "Mai đã quyết định làm gì khi nhận được lá thư?",
+        "context": "Mai giúp mẹ treo tranh Tết, chợt nghe tiếng bác đưa thư:\n\n- Nhà 58 có thư nhé!\n\nCầm phong thư trên tay, Mai ngạc nhiên:\n\n- Mẹ ơi, nhà mình có ai tên là Tường không nhỉ?\n\nMẹ dừng tay:\n\n- Nhà chỉ có ba người, làm gì có ai tên Tường nữa!\n\n- Nhưng đúng là thư gửi cho nhà mình mà.\n\nMẹ cầm phong thư xem rồi bảo:\n\n- Có lẽ người gửi đã ghi nhầm số nhà. Con đừng bóc thư, để trả lại bưu điện. À, hay là con đi hỏi bác Nga xem bác có biết ai là Tường không, chuyển giúp cho họ.\n\nCầm lá thư đi, Mai thầm mong bác tổ trưởng biết ông Tường để lá thư này không phải vòng về Hải Phòng xa xôi nữa.",
+        "options": [
+            "Vứt lá thư đi.",
+            "Chạy đi hỏi mẹ.",
+            "Trả lại bác đưa thư.",
+            "Bóc lá thư ra đọc."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 328,
+        "question": "Mai mong là điều gì với bức thư?",
+        "context": "Mai giúp mẹ treo tranh Tết, chợt nghe tiếng bác đưa thư:\n\n- Nhà 58 có thư nhé!\n\nCầm phong thư trên tay, Mai ngạc nhiên:\n\n- Mẹ ơi, nhà mình có ai tên là Tường không nhỉ?\n\nMẹ dừng tay:\n\n- Nhà chỉ có ba người, làm gì có ai tên Tường nữa!\n\n- Nhưng đúng là thư gửi cho nhà mình mà.\n\nMẹ cầm phong thư xem rồi bảo:\n\n- Có lẽ người gửi đã ghi nhầm số nhà. Con đừng bóc thư, để trả lại bưu điện. À, hay là con đi hỏi bác Nga xem bác có biết ai là Tường không, chuyển giúp cho họ.\n\nCầm lá thư đi, Mai thầm mong bác tổ trưởng biết ông Tường để lá thư này không phải vòng về Hải Phòng xa xôi nữa.",
+        "options": [
+            "Bác Nga biết ông Tường để Mai khỏi phải mang ra trả lại bưu điện.",
+            "Bác Nga biết ông Tường để lá thư không phải trở về Hải Phòng.",
+            "Bác Nga không biết ông Tường để Mai được đọc bức thư.",
+            "Bức thư này có người nhận ngay."
+        ],
+        "answers": "B",
+        "prediction": "A"
+    },
+    {
+        "id": 332,
+        "question": "Nhà vua đã làm gì trước ước muốn của công chúa?",
+        "context": "Ở vương quốc nọ có một cô bé xinh xinh chừng năm, sáu tuổi. Bé xíu như vậy, nhưng cô lại là công chúa. Một lần, công chúa ốm nặng. Nhà vua rất lo lắng. Ngài hứa tặng cô con gái bé nhỏ bất kì thứ gì cô muốn, miễn là cô khỏi bệnh. Công chúa nói rằng cô sẽ khỏi ngay nếu có được mặt trăng.\n\nVua cho vời tất cả các vị đại thần, các nhà khoa học tới để bàn cách lấy mặt trăng cho cô bé. Nhưng ai nấy đều nói là đòi hỏi của công chúa không thể thực hiện được vì mặt trăng ở rất xa và to gấp hàng nghìn lần đất nước của nhà vua.\n\nNhà vua buồn lắm, than phiền với chú hề của ngài. Chú hề nghĩ một lát, rồi bảo:\n\n- Trước hết, phải hỏi xem công chúa nghĩ về mặt trăng như thế nào đã.\n\nNhà vua đồng ý. Thế là chú hề đến gặp cô chủ nhỏ của mình. Chú hứa sẽ mang mặt trăng về cho cô nhưng cô phải cho biết mặt trăng to bằng chừng nào. Công chúa bảo:\n\n- Chỉ to hơn móng tay ta, vì khi ta đặt ngón tay lên trước mặt trăng thì móng tay che gần khuất mặt trăng.\n\nChú hề hỏi lại:\n\n- Công chúa có biết mặt trăng treo ở đâu không?\n\nCông chúa đáp:\n\n- Ta thấy đôi khi nó đi ngang qua ngọn cây trước cửa sổ.\n\nChú hề gặng hỏi thêm:\n\n- Vậy theo công chúa, mặt trăng làm bằng gì?\n\n- Tất nhiên là bằng vàng rồi.\n\nChú hề tức tốc đến gặp thợ kim hoàn, đặt làm ngay một mặt trăng bằng vàng, lớn hơn móng tay của công chúa, rồi cho mặt trăng vào một sợi dây chuyền vàng để cô bé có thể đeo vào cổ.\n\nThấy mặt trăng, công chúa vui sướng ra khỏi giường bệnh, chạy tung tăng khắp vườn.",
+        "options": [
+            "Cho vời các vị đại thần, nhà khoa học tới, tìm cách lấy mặt trăng cho cô bé.",
+            "Cho công chúa một chiếc vương miện thật đẹp để thay thế mặt trăng.",
+            "Giải thích cho công chúa rằng không thể lấy được mặt trăng trên trời.",
+            "Cho với chú hề đến và tìm cách hỏi han, an ủi công chúa."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 339,
+        "question": "Canh nào được nhân vật tôi nhớ đến khi nhắc về mẹ?",
+        "context": "Có lẽ với ai đó khi nghĩ về mẹ, về những món ăn mẹ nấu sẽ nhớ nhiều đến thứ ngon vật lạ, còn tôi đơn giản chỉ là món canh rau mồng tơi thuở ấy. Ngày đó bố mất, mẹ một mình nuôi ba anh em ăn học, bữa cơm của mấy mẹ con chẳng bao giờ có đủ thịt cá. Cơm dọn ra chỉ bát nước mắm, vài quả cà với nồi canh rau mồng tơi, gần như là ngày nào cũng vậy. Rau mẹ hái ở ngoài vườn rửa sạch, nước đổ vào nồi nổi lửa, đợi sôi lên thì thả rau, thêm ít muối trắng, bắc xuống thế là thành canh. Bữa nào mẹ đi chợ mua ít thịt bỏ vào nồi canh trở nên ngọt lạ, hôm đó tôi ăn nhiều hơn, đưa bát liên tục. Mẹ bảo: “Nấu canh có thịt dễ ăn hơn phải không con?”. Tôi ngoan ngoãn gật đầu. Thế là từ bữa đó nồi canh rau mồng tơi thay vì chỉ có nước lã đã có thêm thịt. Tôi lớn dần bên mẹ cùng với món sở trường là canh rau mồng tơi, ăn hoài thành nghiền. Mà lạ một nỗi vườn nhà tôi trồng rau gì cũng không thể phát triển được trừ rau này. Ngày tôi vào đại học, mẹ cũng ăn mừng bằng nồi canh rau mồng tơi, nhưng lần này là nấu bằng nước luộc gà. Trước hôm tôi đi, mẹ dặn đủ điều sợ con điều gì cũng không biết. Lúc mẹ tiễn ra xe, tôi chẳng dám ngoái lại nhìn nhưng qua gương chiếu hậu tôi thấy mẹ khóc. Hình ảnh mẹ gầy ốm, đứng lẻ loi cuối con đường cứ bám riết lấy tôi suốt chặng đường dài... Thời gian trôi nhanh quá! Giờ ngồi nhớ lại tất cả tôi không nghĩ gia đình mình đã trải qua những tháng ngày vất vả như thế. Niềm hạnh phúc lớn nhất của tôi lúc này là hằng ngày đi làm về nhìn thấy mẹ, cất tiếng gọi \"mẹ ơi\" và để tôi có thời gian bù đắp vào khoảng thời gian trước đó - khoảng thời gian mà tôi biết mẹ đã thắt lưng buộc bụng nuôi các con thành người.",
+        "options": [
+            "Canh rau mồng tơi.",
+            "Canh cá.",
+            "Canh thịt.",
+            "Canh rau."
+        ],
+        "answers": "C",
+        "prediction": "A"
+    },
+    {
+        "id": 352,
+        "question": "Ý chính của bài văn là gì ?",
+        "context": "Chiếc xe cùng con ngựa Cú của anh Hoàng đưa tôi từ chợ quận trở về. Anh là con của chú Tư Khởi, người cùng xóm, nhà ở đầu cầu sắt. Nhà anh có hai con ngựa, con Ô với con Cú. Con Ô cao lớn, chạy buổi sáng chở được nhiều khách và khi cần vượt qua xe khác để đón khách, anh chỉ ra roi đánh gió một cái tróc là nó chồm lên. cất cao bốn vó, sải dài, và khi tiếng kèn anh bóp tò te tò te, thì nó qua mặt chiếc trước rồi. Còn con Cú, nhỏ hơn, vừa thấp lại vừa ngắn, lông vàng như lửa. Nó chạy buổi chiều, ít khách, nó sải thua con Ô, nhưng nước chạy kiệu rất bền. Cái tiếng vó của nó gõ xuống mặt đường lóc cóc, đều đều dễ thương. Tôi thích nó hơn con Ô, vì tôi có thể trèo lên lưng nó mà nó không đá. Mỗi lần về thăm nhà, tôi thường đi xe của anh. Anh cho tôi đi nhờ, không lấy tiền. Thỉnh thoảng đến đoạn đường vắng, anh trao cả dây cương cho tôi… Cầm được dây cương, giựt giựt cho nó chồm lên thú vị lắm.",
+        "options": [
+            "Nói về hai con ngựa kéo xe khách.",
+            "Nói về một chuyến đi xe ngựa.",
+            "Nói về cái thú đi xe ngựa.",
+            "Nói về cái thú đi xe bò."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 355,
+        "question": "Vì sao tác giả rất thích thú khi đi xe ngựa của anh Hoàng?",
+        "context": "Chiếc xe cùng con ngựa Cú của anh Hoàng đưa tôi từ chợ quận trở về. Anh là con của chú Tư Khởi, người cùng xóm, nhà ở đầu cầu sắt. Nhà anh có hai con ngựa, con Ô với con Cú. Con Ô cao lớn, chạy buổi sáng chở được nhiều khách và khi cần vượt qua xe khác để đón khách, anh chỉ ra roi đánh gió một cái tróc là nó chồm lên. cất cao bốn vó, sải dài, và khi tiếng kèn anh bóp tò te tò te, thì nó qua mặt chiếc trước rồi. Còn con Cú, nhỏ hơn, vừa thấp lại vừa ngắn, lông vàng như lửa. Nó chạy buổi chiều, ít khách, nó sải thua con Ô, nhưng nước chạy kiệu rất bền. Cái tiếng vó của nó gõ xuống mặt đường lóc cóc, đều đều dễ thương. Tôi thích nó hơn con Ô, vì tôi có thể trèo lên lưng nó mà nó không đá. Mỗi lần về thăm nhà, tôi thường đi xe của anh. Anh cho tôi đi nhờ, không lấy tiền. Thỉnh thoảng đến đoạn đường vắng, anh trao cả dây cương cho tôi… Cầm được dây cương, giựt giựt cho nó chồm lên thú vị lắm.",
+        "options": [
+            "Vì anh Hoàng là hàng xóm thân tình với tác giả, anh cho đi nhờ không lấy tiền.",
+            "Vì tác giả yêu thích hai con ngựa và thỉnh thoảng lại được cầm dây cương điều khiển cả chiếc xe ngựa.",
+            "Vì tác giả là chỗ thâm tình với chủ nhân của con ngựa và yêu thích con ngựa.",
+            "Vì con ngựa này quá đẹp và chạy rất nhanh."
+        ],
+        "answers": "C",
+        "prediction": "B"
+    },
+    {
+        "id": 357,
+        "question": "Tiếng gì của con ngựa thiệt dễ thương?",
+        "context": "Chiếc xe cùng con ngựa Cú của anh Hoàng đưa tôi từ chợ quận trở về. Anh là con của chú Tư Khởi, người cùng xóm, nhà ở đầu cầu sắt. Nhà anh có hai con ngựa, con Ô với con Cú. Con Ô cao lớn, chạy buổi sáng chở được nhiều khách và khi cần vượt qua xe khác để đón khách, anh chỉ ra roi đánh gió một cái tróc là nó chồm lên. cất cao bốn vó, sải dài, và khi tiếng kèn anh bóp tò te tò te, thì nó qua mặt chiếc trước rồi. Còn con Cú, nhỏ hơn, vừa thấp lại vừa ngắn, lông vàng như lửa. Nó chạy buổi chiều, ít khách, nó sải thua con Ô, nhưng nước chạy kiệu rất bền. Cái tiếng vó của nó gõ xuống mặt đường lóc cóc, đều đều dễ thương. Tôi thích nó hơn con Ô, vì tôi có thể trèo lên lưng nó mà nó không đá. Mỗi lần về thăm nhà, tôi thường đi xe của anh. Anh cho tôi đi nhờ, không lấy tiền. Thỉnh thoảng đến đoạn đường vắng, anh trao cả dây cương cho tôi… Cầm được dây cương, giựt giựt cho nó chồm lên thú vị lắm.",
+        "options": [
+            "Cái tiếng vó của nó.",
+            "Tiếng gõ xuống mặt đường.",
+            "Tiếng ngựa la.",
+            "Tiếng bước đi của con ngựa."
+        ],
+        "answers": "C",
+        "prediction": "A"
+    },
+    {
+        "id": 361,
+        "question": "Khi mắc bệnh, cụ Ún đã chữa trị bằng cách nào và kết quả ra sao?",
+        "context": "Cụ Ún làm nghề thầy cúng đã lâu năm. Khắp làng xa bản gần, nhà nào có người ốm \ncũng nhờ cụ đến cúng để đuổi tà ma. Nhiều người tôn cụ làm thầy, cắp sách theo cụ học nghề cúng bái.\n\nVậy mà gần một năm nay, chẳng hiểu cái ma nào làm cho cụ Ún ốm. Bụng cụ đau quặn, lắm lúc tưởng như có con dao cứa mạnh vào từng khúc ruột. Các học trò của cụ đã nhiều lần cúng cho thầy mà bệnh tình không thuyên giảm.\n\nThấy cha ngày càng đau nặng, con trai cụ khẩn khoản xin đưa cụ đi bệnh viện. Anh nói mãi, nể lời, cụ mới chịu đi.\n\nBác sĩ bảo cụ bị sỏi thận, phải mổ lấy sỏi ra. Cụ sợ mổ. Hơn nữa, cụ không tin bác sĩ người Kinh bắt được con ma người Thái. Thế là cụ trốn về nhà. Nhưng về đến nhà, cụ lại lên cơn đau quằn quại. Cụ bắt con mời thầy Vui, học trò giỏi nhất của cụ, đến cúng trừ ma. Cúng suốt ngày đêm, bệnh vẫn không lui.\n\nSáng hôm sau, bỗng có hai người áo trắng tất tả phi ngựa đến. Hóa ra họ là bác sĩ và y tá bệnh viện đi tìm cụ Ún. Bác sĩ tiêm thuốc giảm đau, cụ Ún thấy đỡ. Ngồi bên giường người bệnh, ông bác sĩ ôn tồn giải thích. Gia đình lại đưa cụ lên bệnh viện.\n\nNửa tháng sau, cụ Ún khỏi bệnh. Về nhà, cụ nói với bà con:\n\n- Từ nay, tôi dứt khoát bỏ nghề thầy cúng. Bà con ốm đau nên đi bệnh viện.",
+        "options": [
+            "Cụ Ún tự chữa bằng cách cúng bái nhưng bệnh tình không thuyên giảm.",
+            "Cụ Ún đi bác sĩ khám nhưng bệnh tình không thuyên giảm.",
+            "Cụ Ún đi bác sĩ khám và khỏi bệnh.",
+            "Cụ Ún tự chữa bằng cách cúng bái và đã khỏi bệnh."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 374,
+        "question": "Điền từ chỉ màu sắc thích hợp vào khổ thơ sau:  Em yêu màu...  Hoa cà, hoa sim  Chiếc khăn của chị  Nét mực chữ em",
+        "context": "Em yêu màu đỏ:\nNhư máu con tim,\nLá cờ Tổ quốc,\nKhăn quàng đội viên.\n\nEm yêu màu xanh:\nĐồng bằng, rừng núi,\nBiển đầy cá tôm, \nBầu trời cao vợi.\n\nEm yêu màu vàng:\nLúa đồng chín rộ,\nHoa cúc mùa thu,\nNắng trời rực rỡ.\n\nEm yêu màu trắng:\nTrang giấy tuổi thơ,\nĐóa hoa hồng bạch,\nMái tóc của bà.\n\nEm yêu màu đen:\nHòn than óng ánh,\nĐôi mắt bé ngoan,\nMàn đêm yên tĩnh.\n\nEm yêu màu tím:\nHoa cà, hoa sim,\nChiếc khăn của chị,\nNét mực chữ em.\n\nEm yêu màu nâu:\nÁo mẹ sờn bạc,\nĐất đai cần cù, \nGỗ rừng bát ngát.\n\nTrăm nghìn cảnh đẹp\nDành cho bé ngoan\nEm yêu tất cả\nSắc màu Việt Nam.",
+        "options": [
+            "Đen.",
+            "Xanh.",
+            "Hồng.",
+            "Tím."
+        ],
+        "answers": "C",
+        "prediction": "D"
+    },
+    {
+        "id": 398,
+        "question": "Bài thơ vẽ quê hương đã sử dụng thể thơ nào để viết?",
+        "context": "Bút chì xanh đỏ\nEm gọt hai đầu\nEm thử hai màu\nXanh tươi, đỏ thắm.\n\nEm vẽ làng xóm\nTre xanh, lúa xanh\nSông máng lượn quanh\nMột dòng xanh mát\n\nTrời mây bát ngát\nXanh ngắt mùa thu\nXanh màu ước mơ...\nEm quay đầu đỏ\n\nVẽ nhà em ở\nNgói mới đỏ tươi\nTrường học trên đồi\nEm tô đỏ thắm\n\nCây gạo đầu xóm\nHoa nở chói ngời\nA, nắng lên rồi\nMặt trời đỏ chót\n\nLá cờ Tổ quốc\nBay giữa trời xanh...\nChị ơi bức tranh\nQuê ta đẹp quá!",
+        "options": [
+            "Lục bát.",
+            "Tự do.",
+            "Năm chữ.",
+            "Bốn chữ."
+        ],
+        "answers": "D",
+        "prediction": "A"
+    },
+    {
+        "id": 401,
+        "question": "Bác nông dân đã hít bao nhiêu mùi thơm của thức ăn?",
+        "context": "Ngày xưa ở một vùng quê nọ, có chàng Mồ Côi được dân tin cậy giao cho việc xử kiện.\n\nMột hôm, có người chủ quán đưa một bác nông dân, đến công đường Chủ quán thưa:\n\n- Bác này vào quán của tôi hít hết mùi thơm lợn quay, gà luộc, vịt rán mà không trả tiền. Nhờ Ngài xét cho.\n\nMồ côi hỏi bác nông dân. Bác trả lời:\n\n- Tôi chỉ vào quán ngồi nhờ để ăn miếng cơm nắm. Tôi không mua gì cả. Mồ côi bảo:\n\n- Nhưng bác có hít hương thơm thức ăn trong quán không?\n\nBác nông dân đáp:\n\n- Thưa có\n\nMồ Côi nói.\n\n- Thế thì bác phải bồi thường. Chủ quán muống bồi thường bao nhiêu?\n\n- Thưa ngài hai mươi đồng\n\n- Bác hãy đưa hai mươi đồng đây, tôi phân xử cho!\n\nNghe nói bác nông dân giãy nảy:\n\n- Tôi có đụng chạm gì đến thức ăn trong quán đâu mà phải trả tiền?\n\nBác cứ đưa tiền đây.\n\nBác nông dân ấm ức.\n\n- Nhưng tôi chỉ có hai đồng.\n\n- Cũng được: Mồ côi vừa nói vừa thản nhiên cầm lấy hai đồng bạc bỏ vào một cái bát, rồi úp một cái bát khác lên đưa cho bác nông dân nói:\n\n- Bác hãy sóc lên cho đử mười lần. Còn ông chủ quán ông hãy chịu khó mà nghe. Hai người tuy chưa hiểu gì nhưng cũng cố làm thẹo. Khi đồng bạc trong bát úp đã kêu lách cách đến lần thứ mười. Mồ Côi phán:\n\nBác này đã bồi thường cho chủ quán đủ số tiền. Một bên “hít mùi thịt”, một bên “Nghe tiếng bạc”. Thế là công bằng.",
+        "options": [
+            "Một mùi.",
+            "Hai mùi.",
+            "Ba mùi.",
+            "Bốn mùi."
+        ],
+        "answers": "C",
+        "prediction": "B"
+    },
+    {
+        "id": 402,
+        "question": "Chủ quán đã đòi bác nông dân bồi thường bao nhiêu tiền?",
+        "context": "Ngày xưa ở một vùng quê nọ, có chàng Mồ Côi được dân tin cậy giao cho việc xử kiện.\n\nMột hôm, có người chủ quán đưa một bác nông dân, đến công đường Chủ quán thưa:\n\n- Bác này vào quán của tôi hít hết mùi thơm lợn quay, gà luộc, vịt rán mà không trả tiền. Nhờ Ngài xét cho.\n\nMồ côi hỏi bác nông dân. Bác trả lời:\n\n- Tôi chỉ vào quán ngồi nhờ để ăn miếng cơm nắm. Tôi không mua gì cả. Mồ côi bảo:\n\n- Nhưng bác có hít hương thơm thức ăn trong quán không?\n\nBác nông dân đáp:\n\n- Thưa có\n\nMồ Côi nói.\n\n- Thế thì bác phải bồi thường. Chủ quán muống bồi thường bao nhiêu?\n\n- Thưa ngài hai mươi đồng\n\n- Bác hãy đưa hai mươi đồng đây, tôi phân xử cho!\n\nNghe nói bác nông dân giãy nảy:\n\n- Tôi có đụng chạm gì đến thức ăn trong quán đâu mà phải trả tiền?\n\nBác cứ đưa tiền đây.\n\nBác nông dân ấm ức.\n\n- Nhưng tôi chỉ có hai đồng.\n\n- Cũng được: Mồ côi vừa nói vừa thản nhiên cầm lấy hai đồng bạc bỏ vào một cái bát, rồi úp một cái bát khác lên đưa cho bác nông dân nói:\n\n- Bác hãy sóc lên cho đử mười lần. Còn ông chủ quán ông hãy chịu khó mà nghe. Hai người tuy chưa hiểu gì nhưng cũng cố làm thẹo. Khi đồng bạc trong bát úp đã kêu lách cách đến lần thứ mười. Mồ Côi phán:\n\nBác này đã bồi thường cho chủ quán đủ số tiền. Một bên “hít mùi thịt”, một bên “Nghe tiếng bạc”. Thế là công bằng.",
+        "options": [
+            "Hai mươi đồng.",
+            "Ba mươi đồng.",
+            "Bốn mươi đồng.",
+            "Năm mươi đồng."
+        ],
+        "answers": "C",
+        "prediction": "A"
+    },
+    {
+        "id": 404,
+        "question": "Trong câu: “Mồ côi là người rất thông minh” thuộc dạng câu nào?",
+        "context": "Ngày xưa ở một vùng quê nọ, có chàng Mồ Côi được dân tin cậy giao cho việc xử kiện.\n\nMột hôm, có người chủ quán đưa một bác nông dân, đến công đường Chủ quán thưa:\n\n- Bác này vào quán của tôi hít hết mùi thơm lợn quay, gà luộc, vịt rán mà không trả tiền. Nhờ Ngài xét cho.\n\nMồ côi hỏi bác nông dân. Bác trả lời:\n\n- Tôi chỉ vào quán ngồi nhờ để ăn miếng cơm nắm. Tôi không mua gì cả. Mồ côi bảo:\n\n- Nhưng bác có hít hương thơm thức ăn trong quán không?\n\nBác nông dân đáp:\n\n- Thưa có\n\nMồ Côi nói.\n\n- Thế thì bác phải bồi thường. Chủ quán muống bồi thường bao nhiêu?\n\n- Thưa ngài hai mươi đồng\n\n- Bác hãy đưa hai mươi đồng đây, tôi phân xử cho!\n\nNghe nói bác nông dân giãy nảy:\n\n- Tôi có đụng chạm gì đến thức ăn trong quán đâu mà phải trả tiền?\n\nBác cứ đưa tiền đây.\n\nBác nông dân ấm ức.\n\n- Nhưng tôi chỉ có hai đồng.\n\n- Cũng được: Mồ côi vừa nói vừa thản nhiên cầm lấy hai đồng bạc bỏ vào một cái bát, rồi úp một cái bát khác lên đưa cho bác nông dân nói:\n\n- Bác hãy sóc lên cho đử mười lần. Còn ông chủ quán ông hãy chịu khó mà nghe. Hai người tuy chưa hiểu gì nhưng cũng cố làm thẹo. Khi đồng bạc trong bát úp đã kêu lách cách đến lần thứ mười. Mồ Côi phán:\n\nBác này đã bồi thường cho chủ quán đủ số tiền. Một bên “hít mùi thịt”, một bên “Nghe tiếng bạc”. Thế là công bằng.",
+        "options": [
+            "Ai là gì?",
+            "Ai thế nào?",
+            "Ai làm gì?",
+            "Ai như thế nào?"
+        ],
+        "answers": "B",
+        "prediction": "A"
+    },
+    {
+        "id": 405,
+        "question": "Tính cách của bác nông dân được thể hiện qua từ nào?",
+        "context": "Ngày xưa ở một vùng quê nọ, có chàng Mồ Côi được dân tin cậy giao cho việc xử kiện.\n\nMột hôm, có người chủ quán đưa một bác nông dân, đến công đường Chủ quán thưa:\n\n- Bác này vào quán của tôi hít hết mùi thơm lợn quay, gà luộc, vịt rán mà không trả tiền. Nhờ Ngài xét cho.\n\nMồ côi hỏi bác nông dân. Bác trả lời:\n\n- Tôi chỉ vào quán ngồi nhờ để ăn miếng cơm nắm. Tôi không mua gì cả. Mồ côi bảo:\n\n- Nhưng bác có hít hương thơm thức ăn trong quán không?\n\nBác nông dân đáp:\n\n- Thưa có\n\nMồ Côi nói.\n\n- Thế thì bác phải bồi thường. Chủ quán muống bồi thường bao nhiêu?\n\n- Thưa ngài hai mươi đồng\n\n- Bác hãy đưa hai mươi đồng đây, tôi phân xử cho!\n\nNghe nói bác nông dân giãy nảy:\n\n- Tôi có đụng chạm gì đến thức ăn trong quán đâu mà phải trả tiền?\n\nBác cứ đưa tiền đây.\n\nBác nông dân ấm ức.\n\n- Nhưng tôi chỉ có hai đồng.\n\n- Cũng được: Mồ côi vừa nói vừa thản nhiên cầm lấy hai đồng bạc bỏ vào một cái bát, rồi úp một cái bát khác lên đưa cho bác nông dân nói:\n\n- Bác hãy sóc lên cho đử mười lần. Còn ông chủ quán ông hãy chịu khó mà nghe. Hai người tuy chưa hiểu gì nhưng cũng cố làm thẹo. Khi đồng bạc trong bát úp đã kêu lách cách đến lần thứ mười. Mồ Côi phán:\n\nBác này đã bồi thường cho chủ quán đủ số tiền. Một bên “hít mùi thịt”, một bên “Nghe tiếng bạc”. Thế là công bằng.",
+        "options": [
+            "Hiền lành.",
+            "Giả dối.",
+            "Thật thà.",
+            ""
+        ],
+        "answers": "C",
+        "prediction": "B"
+    },
+    {
+        "id": 410,
+        "question": "Bọn cai và lính đã làm gì dì Năm?",
+        "context": "Nhân vật: Dì Năm - 29 tuổi\n\n                 An -12 tuổi, con trai dì Năm\n\n                 Lính\n\n                 Cai\n\nCảnh trí: Một ngôi nhà nông thôn Nam Bộ. Cửa nhà quay vào phía trong sân khấu. Bên trái kê một cái bàn, hai cái ghế. Bên phải là một chõng tre, trên có mâm cơm.\n\nThời gian: Buổi trưa. Má con dì Năm đang ăn cơm thì một chú cán bộ bị địch rượt bắt chạy vô. Dì Năm chỉ kịp đưa chú một chiếc áo để thay, rồi bảo chú ngồi xuống chõng vờ ăn cơm. Vừa lúc ấy, một tên cai và một tên lính chạy tới.\n\nCai:        - Anh chị kia!\n\nDì Năm: - Dạ, cậu kêu chi?\n\nCai:        - Có thấy một người mới chạy vô đây không?\n\nDì Năm: - Dạ, hổng thấy.\n\nCán bộ:  - Lâu mau rồi cậu?\n\nCai:        - Mới tức thời đây.\n\nCai:        - Thiệt không thấy chớ? Rõ ràng nó quẹo vô đây (vẻ bực dọc). Anh nầy là...\n\nDì Năm: - Chồng tui. Thằng nầy là con.\n\nCai:        - (Xẵng giọng) Chồng chị à?\n\nDì Năm: - Dạ, chồng tui.\n\nCai:        - Để coi. (Quay sang lính) Trói nó lại cho tao (chỉ dì Năm). Cứ trói đi. Tao ra lịnh mà (lính trói dì Năm lại).\n\nAn:         - (Ôm dì Năm, khóc òa) Má ơi má!\n\nCán bộ:  - (Buông đũa đứng dậy) Vợ tôi...\n\nLính:      - Ngồi xuống! (Chĩa súng vào chú cán bộ) Rục rịch tao bắn.\n\nDì Năm: - Trời ơi! Tui có tội tình chi?\n\nCai:        - (Dỗ dành) Nếu chị nói thiệt, tôi thưởng. Bằng chị nhận anh này là chồng, tôi bắn chị tức thời, đốt luôn cái nhà này nữa.\n\nDì Năm: -  Mấy cậu... để tui...\n\nCai:        - Có thế chớ! Nào, nói lẹ đi!\n\nDì Năm: - (nghẹn ngào) An... (An \"dạ\"). Mầy qua bà Mười... dắt con heo về..., đội luôn năm giạ lúa. Rồi ... cha con ráng đùm bọc lấy nhau.",
+        "options": [
+            "Bắt trói chị vì không bắt được anh cán bộ.",
+            "Bắt trói chị giải đi vì tội bao che, nói dối, không biết tung tích người cán bộ.",
+            "Bắt trói chị giải đi vì chị đã chỉ đường sai.",
+            "Bắt trói để dọa dẫm, khiến chị khai ra sự thật."
+        ],
+        "answers": "B",
+        "prediction": "A"
+    },
+    {
+        "id": 454,
+        "question": "Hành động xoa đầu ân cần thể hiện tình cảm của thầy đối với An như thế nào?",
+        "context": "Bà của An mới mất nên An xin nghỉ học mấy ngày liền. Sau đám tang bà, An trở lại lớp, lòng nặng trĩu nỗi buồn. Thế là chẳng bao giờ An còn được nghe bà kể chuyện cổ tích, chẳng bao giờ An còn được bà âu yếm, vuốt ve...\n\nNhớ bà, An ngồi lặng lẽ. Thầy giáo bước vào lớp học. Thầy bắt đầu kiểm tra bài làm ở nhà của học sinh.\n\nKhi thầy đến gần, An thì thào buồn bã:\n\n- Thưa thầy, hôm nay em chưa làm bài tập.\n\nThầy nhẹ nhàng xoa đầu An. Bàn tay thầy dịu dàng đầy trìu mến, thương yêu.\n\nAn nói tiếp:\n\n- Nhưng sáng mai em sẽ làm ạ!\n\n- Tốt lắm! Thầy biết em nhất định sẽ làm! - Thầy khẽ nói với An.",
+        "options": [
+            "Thông cảm, hiểu cho hoàn cảnh của An.",
+            "Ghét bỏ, không hiểu cho hoàn cảnh của An.",
+            "Yêu thương vô bờ bến.",
+            "Yêu thương."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 462,
+        "question": "Cách trò chuyện của mẹ với Cương như thế nào?",
+        "context": "Từ ngày phải nghỉ học, Cương đâm ra nhớ cái lò rèn cạnh trường. Một hôm, em ngỏ ý với mẹ:\n\n- Mẹ nói với thầy cho con đi học nghề rèn. \n\nMẹ Cương đã nghe rõ mồn một lời con, nhưng bà vẫn hỏi lại:\n\n- Con vừa bảo gì?\n\n- Mẹ xin thầy cho con đi làm thợ rèn.\n\n- Ai xui con thế?\n\nCương cố cắt nghĩa cho mẹ hiểu:\n\n- Thưa mẹ, tự ý con muốn thế. Con thương mẹ vất vả, đã phải nuôi bằng ấy đứa em còn phải nuôi con... Con muốn học một nghề để kiếm sống...\n\nMẹ Cương như đã hiểu lòng con. Bà cảm động, xoa đầu Cương và bảo:\n\n- Con muốn giúp mẹ như thế là phải. Nhưng biết thầy có chịu nghe không? Nhà ta tuy nghèo nhưng dòng dõi quan sang. Không lẽ bây giờ mẹ để con phải làm đầy tớ anh thợ rèn.\n\nCương thấy nghèn nghẹn ở cổ. Em nắm lấy tay mẹ, thiết tha:\n\n- Mẹ ơi! Người ta ai cũng phải có một nghề. Làm ruộng hay buôn bán, làm thầy hay làm thợ đều đáng trọng như nhau. Chỉ những ai trộm cắp hay ăn bám mới đáng bị coi thường.\n\nBất giác, em lại nhớ đến ba người thợ nhễ nhại mồ hôi mà vui vẻ bên tiếng bễ thổi \"phì phào\", tiếng búa con, búa lớn theo nhau đập \"cúc cắc\" và những tàn lửa đỏ hồng, bắn tóe lên như khi đốt cây bông.",
+        "options": [
+            "Mẹ rất buồn và không nói chuyện với Cương.",
+            "Mẹ rất dịu dàng, nhẹ nhàng nói chuyện, thuyết phục.",
+            "Mẹ rất nóng nảy, bực bội, cáu gắt về ý định của Cương.",
+            "Mẹ rất vui và cởi mở trò chuyện, ủng hộ ý định của Cương."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 468,
+        "question": "Những chi tiết nào cho thấy Én con rất sợ bay qua sông?",
+        "context": "Có một gia đình Én đang bay đi trú đông. Chú Én con mới tập bay. Đây là lần đầu tiên Én con phải bay xa đến vậy. Trên đường đi, gia đình Én phải bay qua một con sông lớn, nước chảy xiết. Chú Én con sợ hãi nhìn dòng sông. Én sẽ bị chóng mặt và rơi xuống mất. Bố mẹ động viên Én rất nhiều, nhưng Én vẫn không dám bay qua. Bố liền ngắt cho Én con một chiếc lá rồi nói:\n\n- Con hãy cầm chiếc lá thần kì này. Nó sẽ bảo vệ con được an toàn.\n\nLúc qua sông rồi, Én con vui vẻ bảo bố:\n\n- Bố ơi, chiếc lá thần kì tuyệt vời quá! Nó giúp con qua sông an toàn rồi đây này.\n\nBố Én ôn tồn bảo:\n\n- Không phải chiếc lá thần kì đâu con ạ. Đó chỉ là một chiếc lá bình thường như bao chiếc lá khác. Cái chính là con đã vững tin và rất cố gắng.\n\nÉn con thật giỏi phải không? Còn bạn, đã bao giờ bạn thấy run sợ trước một việc gì đó chưa? Hãy tạo cho mình một niềm tin, chắc chắn bạn sẽ vượt qua.",
+        "options": [
+            "Én con sợ hãi nhìn dòng sông.",
+            "Bố mẹ động viên nhưng Én con vẫn không dám bay qua sông.",
+            "Én con sợ bị chóng mặt và rơi xuống.",
+            "Én con sợ dòng sông, không dám bay qua sông, sợ bị chóng mặt và rơi xuống."
+        ],
+        "answers": "D",
+        "prediction": "B"
+    },
+    {
+        "id": 475,
+        "question": "Người đồng chí khuyên Bác điều gì?",
+        "context": "Bác Hồ rất chăm rèn luyện thân thể. Hồi ở chiến khu Việt Bắc, sáng nào Bác cũng dậy sớm luyện tập. Bác tập chạy ở bờ suối. Bác còn tập leo núi. Bác chọn những ngọn núi cao nhất trong vùng để leo lên với đôi bàn chân không. Có đồng chí nhắc:\n\n- Bác nên đi giày cho khỏi đau chân.\n\n- Cảm ơn chú. Bác tập leo chân không cho quen.\n\nSau giờ tập, Bác tắm nước lạnh để luyện chịu đựng với giá rét.",
+        "options": [
+            "Nên leo núi một cách chậm rãi.",
+            "Nên đi dép khi leo núi.",
+            "Không nên đi giày khi leo núi.",
+            "Nên sử dụng giày khi leo núi."
+        ],
+        "answers": "D",
+        "prediction": "B"
+    },
+    {
+        "id": 485,
+        "question": "Câu thơ \"Trong tù không rượu cũng không hoa\" có ý nghĩa là gì?",
+        "context": "Trong tù không rượu cũng không hoa,\nCảnh đẹp đêm nay, khó hững hờ.\nNgười ngắm trăng soi ngoài cửa sổ,\nTrăng nhòm khe cửa ngắm nhà thơ.\n\nĐường non khách tới hoa đầy\nRừng sâu quân đến tung bay chim ngàn\nViệc quân việc nước đã bàn\nXách bương dắt trẻ ra vườn hái rau.",
+        "options": [
+            "Hoàn cảnh đất nước có chiến tranh.",
+            "Hoàn cảnh tù đầy thiếu thốn.",
+            "Bác Hồ rất dũng cảm.",
+            "Bác Hồ rất yêu thiên nhiên."
+        ],
+        "answers": "B",
+        "prediction": "A"
+    },
+    {
+        "id": 486,
+        "question": "Câu thơ \"Cảnh đẹp đêm nay khó hững hờ\" nói lên điều gì về Bác Hồ?",
+        "context": "Trong tù không rượu cũng không hoa,\nCảnh đẹp đêm nay, khó hững hờ.\nNgười ngắm trăng soi ngoài cửa sổ,\nTrăng nhòm khe cửa ngắm nhà thơ.\n\nĐường non khách tới hoa đầy\nRừng sâu quân đến tung bay chim ngàn\nViệc quân việc nước đã bàn\nXách bương dắt trẻ ra vườn hái rau.",
+        "options": [
+            "Bác rất thông minh, sáng suốt và tài giỏi.",
+            "Bác rất giản dị, tiết kiệm và gần gũi với nhân dân.",
+            "Bác có tinh thần lạc quan, yêu thiên nhiên.",
+            "Bác có tinh thần yêu nước, lo lắng cho vận mệnh dân tộc."
+        ],
+        "answers": "C",
+        "prediction": "D"
+    },
+    {
+        "id": 487,
+        "question": "Bài thơ này cho thấy Bác Hồ là người như thế nào?",
+        "context": "Trong tù không rượu cũng không hoa,\nCảnh đẹp đêm nay, khó hững hờ.\nNgười ngắm trăng soi ngoài cửa sổ,\nTrăng nhòm khe cửa ngắm nhà thơ.\n\nĐường non khách tới hoa đầy\nRừng sâu quân đến tung bay chim ngàn\nViệc quân việc nước đã bàn\nXách bương dắt trẻ ra vườn hái rau.",
+        "options": [
+            "Bác Hồ là người rất yêu nước.",
+            "Bác Hồ rất yêu thiên nhiên.",
+            "Bác Hồ là người rất giản dị.",
+            "Bác Hồ rất dũng cảm."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 489,
+        "question": "Bác sáng tác bài thơ không thuộc hoàn cảnh nào sau đây?",
+        "context": "Trong tù không rượu cũng không hoa,\nCảnh đẹp đêm nay, khó hững hờ.\nNgười ngắm trăng soi ngoài cửa sổ,\nTrăng nhòm khe cửa ngắm nhà thơ.\n\nĐường non khách tới hoa đầy\nRừng sâu quân đến tung bay chim ngàn\nViệc quân việc nước đã bàn\nXách bương dắt trẻ ra vườn hái rau.",
+        "options": [
+            "Trong thời gian bác bị tù ở Trung Quốc.",
+            "Trong kháng chiến chống Pháp.",
+            "Trong kháng chiến chống Mỹ.",
+            "Trong lúc gửi thư chúc tế Trung Thu cho thiếu nhi."
+        ],
+        "answers": "B",
+        "prediction": "D"
+    },
+    {
+        "id": 490,
+        "question": "Câu thơ nào thể hiện Bác luôn bận rộn và lo cho cuộc kháng chiến của đất nước?",
+        "context": "Trong tù không rượu cũng không hoa,\nCảnh đẹp đêm nay, khó hững hờ.\nNgười ngắm trăng soi ngoài cửa sổ,\nTrăng nhòm khe cửa ngắm nhà thơ.\n\nĐường non khách tới hoa đầy\nRừng sâu quân đến tung bay chim ngàn\nViệc quân việc nước đã bàn\nXách bương dắt trẻ ra vườn hái rau.",
+        "options": [
+            "Rừng sâu quân đến, tung bay chim ngàn.",
+            "Xách bương, dắt trẻ ra vườn tưới rau.",
+            "Đường non khách tới hoa đầy.",
+            "Việc quân việc nước đã bàn."
+        ],
+        "answers": "D",
+        "prediction": "A"
+    },
+    {
+        "id": 498,
+        "question": "Mưa ở Cà Mau có gì khác thường?",
+        "context": "Cà Mau là đất mưa dông. Vào tháng ba, tháng tư, sớm nắng chiều mưa. Đang nắng đó, mưa đổ ngay xuống đó. Mưa hối hả, không kịp chạy vào nhà. Mưa rất phũ, một hồi rồi tạnh hẳn. Trong mưa thường nổi cơn dông.\n\nCà Mau đất xốp. Mùa nắng, đất nẻ chân chim, nền nhà cũng rạn nứt. Trên cái đất phập phều và lắm gió, dông như thế, cây đứng lẻ khó mà chống nổi với những cơn thịnh nộ của trời. Cây bình bát, cây bần cũng phải quây quần thành chòm, thành rặng; rễ phải dài, phải cắm sâu vào trong lòng đất. Nhiều nhất là đước. Đước mọc san sát đến tận mũi đất cuối cùng, thẳng đuột như hằng hà sa số cây dù xanh cắm trên bãi. Nhà cửa dựng dọc theo những bờ kênh, dưới những hàng đước xanh rì. Nhà nọ sang nhà kia phải leo trên cầu bằng thân cây đước...\n\nSống trên cái đất mà ngày xưa, dưới sông \"sấu cản mũi thuyền\", trên cạn \"hổ rình xem hát\" này, con người phải thông minh và giàu nghị lực. Họ thích kể, thích nghe những huyền thoại về người vật hổ, bắt cá sấu, bắt rắn hổ mây. Tinh thần thượng võ của cha ông được nung đúc và lưu truyền để khai phá gìn giữ mũi đất tận cùng này của Tổ quốc.",
+        "options": [
+            "Mưa dông, sớm nắng chiều mưa, nhanh tạnh.",
+            "Mưa có dông, mưa rất nhanh.",
+            "Mưa dông, thất thường.",
+            "Tất cả các ý trên."
+        ],
+        "answers": "A",
+        "prediction": "B"
+    },
+    {
+        "id": 501,
+        "question": "Đâu không phải những từ/ cụm từ nói về tính cách của con người Cà Mau trong đoạn văn sau:    Sống trên cái đất mà ngày xưa, dưới sông \"sấu cản mũi thuyền\", trên cạn \"hổ rình xem hát\" này, con người phải thông minh và giàu nghị lực. Họ thích kể, thích nghe những huyền thoại về người vật hổ, bắt cá sấu, bắt rắn hổ mây. Tinh thần thượng võ của cha ông được nung đúc và lưu truyền để khai phá gìn giữ mũi đất tận cùng này của Tổ quốc.",
+        "context": "Cà Mau là đất mưa dông. Vào tháng ba, tháng tư, sớm nắng chiều mưa. Đang nắng đó, mưa đổ ngay xuống đó. Mưa hối hả, không kịp chạy vào nhà. Mưa rất phũ, một hồi rồi tạnh hẳn. Trong mưa thường nổi cơn dông.\n\nCà Mau đất xốp. Mùa nắng, đất nẻ chân chim, nền nhà cũng rạn nứt. Trên cái đất phập phều và lắm gió, dông như thế, cây đứng lẻ khó mà chống nổi với những cơn thịnh nộ của trời. Cây bình bát, cây bần cũng phải quây quần thành chòm, thành rặng; rễ phải dài, phải cắm sâu vào trong lòng đất. Nhiều nhất là đước. Đước mọc san sát đến tận mũi đất cuối cùng, thẳng đuột như hằng hà sa số cây dù xanh cắm trên bãi. Nhà cửa dựng dọc theo những bờ kênh, dưới những hàng đước xanh rì. Nhà nọ sang nhà kia phải leo trên cầu bằng thân cây đước...\n\nSống trên cái đất mà ngày xưa, dưới sông \"sấu cản mũi thuyền\", trên cạn \"hổ rình xem hát\" này, con người phải thông minh và giàu nghị lực. Họ thích kể, thích nghe những huyền thoại về người vật hổ, bắt cá sấu, bắt rắn hổ mây. Tinh thần thượng võ của cha ông được nung đúc và lưu truyền để khai phá gìn giữ mũi đất tận cùng này của Tổ quốc.",
+        "options": [
+            "Thích nghe chuyện huyền thoại.",
+            "Tinh thần thượng võ.",
+            "Thông minh, giàu nghị lực.",
+            "Tất cả các ý trên."
+        ],
+        "answers": "A",
+        "prediction": "D"
+    },
+    {
+        "id": 502,
+        "question": "Bài văn có mấy đoạn?",
+        "context": "Cà Mau là đất mưa dông. Vào tháng ba, tháng tư, sớm nắng chiều mưa. Đang nắng đó, mưa đổ ngay xuống đó. Mưa hối hả, không kịp chạy vào nhà. Mưa rất phũ, một hồi rồi tạnh hẳn. Trong mưa thường nổi cơn dông.\n\nCà Mau đất xốp. Mùa nắng, đất nẻ chân chim, nền nhà cũng rạn nứt. Trên cái đất phập phều và lắm gió, dông như thế, cây đứng lẻ khó mà chống nổi với những cơn thịnh nộ của trời. Cây bình bát, cây bần cũng phải quây quần thành chòm, thành rặng; rễ phải dài, phải cắm sâu vào trong lòng đất. Nhiều nhất là đước. Đước mọc san sát đến tận mũi đất cuối cùng, thẳng đuột như hằng hà sa số cây dù xanh cắm trên bãi. Nhà cửa dựng dọc theo những bờ kênh, dưới những hàng đước xanh rì. Nhà nọ sang nhà kia phải leo trên cầu bằng thân cây đước...\n\nSống trên cái đất mà ngày xưa, dưới sông \"sấu cản mũi thuyền\", trên cạn \"hổ rình xem hát\" này, con người phải thông minh và giàu nghị lực. Họ thích kể, thích nghe những huyền thoại về người vật hổ, bắt cá sấu, bắt rắn hổ mây. Tinh thần thượng võ của cha ông được nung đúc và lưu truyền để khai phá gìn giữ mũi đất tận cùng này của Tổ quốc.",
+        "options": [
+            "2 đoạn.",
+            "3 đoạn.",
+            "4 đoạn.",
+            "5 đoạn."
+        ],
+        "answers": "B",
+        "prediction": "C"
+    },
+    {
+        "id": 504,
+        "question": "Mưa ở Cà Mau có gì khác thường?",
+        "context": "Cà Mau là đất mưa dông. Vào tháng ba, tháng tư, sớm nắng chiều mưa. Đang nắng đó, mưa đổ ngay xuống đó. Mưa hối hả, không kịp chạy vào nhà. Mưa rất phũ, một hồi rồi tạnh hẳn. Trong mưa thường nổi cơn dông.\n\nCà Mau đất xốp. Mùa nắng, đất nẻ chân chim, nền nhà cũng rạn nứt. Trên cái đất phập phều và lắm gió, dông như thế, cây đứng lẻ khó mà chống nổi với những cơn thịnh nộ của trời. Cây bình bát, cây bần cũng phải quây quần thành chòm, thành rặng; rễ phải dài, phải cắm sâu vào trong lòng đất. Nhiều nhất là đước. Đước mọc san sát đến tận mũi đất cuối cùng, thẳng đuột như hằng hà sa số cây dù xanh cắm trên bãi. Nhà cửa dựng dọc theo những bờ kênh, dưới những hàng đước xanh rì. Nhà nọ sang nhà kia phải leo trên cầu bằng thân cây đước...\n\nSống trên cái đất mà ngày xưa, dưới sông \"sấu cản mũi thuyền\", trên cạn \"hổ rình xem hát\" này, con người phải thông minh và giàu nghị lực. Họ thích kể, thích nghe những huyền thoại về người vật hổ, bắt cá sấu, bắt rắn hổ mây. Tinh thần thượng võ của cha ông được nung đúc và lưu truyền để khai phá gìn giữ mũi đất tận cùng này của Tổ quốc.",
+        "options": [
+            "Mưa dông, sớm nắng chiều mưa, nhanh tạnh.",
+            "Mưa dông, thất thường.",
+            "Mưa có dông, mưa rất nhanh.",
+            "Mưa to ào ạt."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 507,
+        "question": "Điều gì thể hiện lòng nhân ái của Lãn Ông trong việc ông chữa bệnh cho người phụ nữ ?",
+        "context": "Hải Thượng Lãn Ông là một thầy thuốc giàu lòng nhân ái, không màng danh lợi.\n\nCó lần, một người thuyền chài có đứa con nhỏ bị bệnh đậu nặng, nhưng nhà nghèo, không có tiền chữa. Lãn Ông biết tin bèn đến thăm. Giữa mùa hè nóng nực, cháu bé nằm trong chiếc thuyền nhỏ hẹp, người đầy mụn mủ, mùi hôi tanh bốc lên nồng nặc. Nhưng Lãn Ông vẫn không ngại khổ. Ông ân cần chăm sóc đứa bé suốt một tháng trời và chữa khỏi bệnh cho nó. Khi từ giã nhà thuyền chài, ông chẳng những không lấy tiền mà còn cho thêm gạo, củi.\n\nMột lần khác, có người phụ nữ được ông cho thuốc và giảm bệnh. Nhưng rồi bệnh tái phát, người chồng đến xin đơn thuốc mới. Lúc ấy trời đã khuya nên Lãn Ông hẹn đến khám kĩ mới cho thuốc. Hôm sau ông đến thì được tin người chồng đã lấy thuốc khác, nhưng không cứu được vợ. Lãn ông rất hối hận. Ông ghi trong sổ thuốc của mình: “Xét về việc thì người bệnh chết do tay thầy thuốc khác, song về tình thì tôi như mắc phải bệnh giết người. Càng nghĩ càng hối hận.”\n\nLà thầy thuốc nổi tiếng, Lãn Ông nhiều lần được vua chúa vời vào cung chữa bệnh và được tiến cử vào chức ngự y, song ông đã khéo chối từ.\n\nSuốt đời, Lãn ông không vươn vào vòng danh lợi. Ông có hai câu thơ tỏ chí của mình:\n\nCông danh trước mắt trôi như nước,\n\nNhân nghĩa trong lòng chẳng đổi phương.",
+        "options": [
+            "Ông đã cho người phụ nữ thuốc miễn phí không lấy tiền.",
+            "Ông chỉ cho thuốc cho riêng người phụ nữ đó.",
+            "Ông tự buộc tội mình về cái chết của một người bệnh không phải do ông gây ra.",
+            "Ông chỉ cho thuốc một lần, không cho lần thứ hai."
+        ],
+        "answers": "C",
+        "prediction": "A"
+    },
+    {
+        "id": 508,
+        "question": "Tìm đại từ trong câu: “Xét về việc thì người bệnh chết do tay thầy thuốc khác, song về tình thì tôi như mắc phải bệnh giết người. Càng nghĩ càng hối hận.”",
+        "context": "Hải Thượng Lãn Ông là một thầy thuốc giàu lòng nhân ái, không màng danh lợi.\n\nCó lần, một người thuyền chài có đứa con nhỏ bị bệnh đậu nặng, nhưng nhà nghèo, không có tiền chữa. Lãn Ông biết tin bèn đến thăm. Giữa mùa hè nóng nực, cháu bé nằm trong chiếc thuyền nhỏ hẹp, người đầy mụn mủ, mùi hôi tanh bốc lên nồng nặc. Nhưng Lãn Ông vẫn không ngại khổ. Ông ân cần chăm sóc đứa bé suốt một tháng trời và chữa khỏi bệnh cho nó. Khi từ giã nhà thuyền chài, ông chẳng những không lấy tiền mà còn cho thêm gạo, củi.\n\nMột lần khác, có người phụ nữ được ông cho thuốc và giảm bệnh. Nhưng rồi bệnh tái phát, người chồng đến xin đơn thuốc mới. Lúc ấy trời đã khuya nên Lãn Ông hẹn đến khám kĩ mới cho thuốc. Hôm sau ông đến thì được tin người chồng đã lấy thuốc khác, nhưng không cứu được vợ. Lãn ông rất hối hận. Ông ghi trong sổ thuốc của mình: “Xét về việc thì người bệnh chết do tay thầy thuốc khác, song về tình thì tôi như mắc phải bệnh giết người. Càng nghĩ càng hối hận.”\n\nLà thầy thuốc nổi tiếng, Lãn Ông nhiều lần được vua chúa vời vào cung chữa bệnh và được tiến cử vào chức ngự y, song ông đã khéo chối từ.\n\nSuốt đời, Lãn ông không vươn vào vòng danh lợi. Ông có hai câu thơ tỏ chí của mình:\n\nCông danh trước mắt trôi như nước,\n\nNhân nghĩa trong lòng chẳng đổi phương.",
+        "options": [
+            "Người bệnh.",
+            "Tôi.",
+            "Người.",
+            "Thầy thuốc."
+        ],
+        "answers": "B",
+        "prediction": "D"
+    },
+    {
+        "id": 513,
+        "question": "Nội dung của bài thơ này là gì?",
+        "context": "Dòng sông mới điệu làm sao\nNắng lên mặc áo lụa đào thướt tha\nTrưa về trời rộng bao la\nÁo xanh sông mặc như là mới may\nChiều trôi thơ thẩn áng mây\nCài lên màu áo hây hây ráng vàng\nĐêm thêu trước ngực vầng trăng\nTrên nền nhung tím trăm ngàn sao lên\nKhuya rồi, sông mặc áo đen\nNép trong rừng bưởi lặng yên đôi bờ...\nSáng ra thơm đến ngẩn ngơ\nDòng sông đã mặc bao giờ áo hoa\nNgước lên bỗng gặp la đà\nNgàn hoa bưởi trắng nở nhòa áo ai...",
+        "options": [
+            "Ca ngợi vẻ đẹp của con người quê hương.",
+            "Ca ngợi vẻ đẹp của thiên nhiên đất nước.",
+            "Ca ngợi sức sống kì diệu của quê hương.",
+            "Ca ngợi vẻ đẹp của dòng sông quê hương."
+        ],
+        "answers": "D",
+        "prediction": "C"
+    },
+    {
+        "id": 518,
+        "question": "Dưới mái trường mới, cảm xúc của bạn học sinh như thế nào?",
+        "context": "Trường mới của em xây trên nền ngôi trường cũ lợp lá. Nhìn từ xa, những mảng tường vàng, ngói đỏ như những cánh hoa lấp ló trong cây. \n\nEm bước vào lớp, vừa bỡ ngỡ vừa thấy quen thân. Tường vôi trắng, cánh cửa xanh, bàn ghế gỗ xoan đào nổi vân như lụa. Em thấy tất cả đều sáng lên và thơm tho trong nắng mùa thu.\n\nDưới mái trường mới, sao tiếng trống rung động kéo dài! Tiếng cô giáo trang nghiêm mà ấm áp. Tiếng đọc bài của em cũng vang vang đến lạ! Em nhìn ai cũng thấy thân thương. Cả đến chiếc thước kẻ, chiếc bút chì sao cũng đáng yêu đến thế!",
+        "options": [
+            "Nhìn mọi thứ đều thấy quen thuộc và gần gũi.",
+            "Nhìn mọi thứ đều thấy đáng sợ và ngại ngùng.",
+            "Nhìn mọi thứ đều thấy lạ lẫm và mới mẻ.",
+            "Nhìn mọi thứ đều thấy thân thương và đáng yêu."
+        ],
+        "answers": "D",
+        "prediction": "C"
+    },
+    {
+        "id": 519,
+        "question": "Tường của trường học mới màu gì?",
+        "context": "Trường mới của em xây trên nền ngôi trường cũ lợp lá. Nhìn từ xa, những mảng tường vàng, ngói đỏ như những cánh hoa lấp ló trong cây. \n\nEm bước vào lớp, vừa bỡ ngỡ vừa thấy quen thân. Tường vôi trắng, cánh cửa xanh, bàn ghế gỗ xoan đào nổi vân như lụa. Em thấy tất cả đều sáng lên và thơm tho trong nắng mùa thu.\n\nDưới mái trường mới, sao tiếng trống rung động kéo dài! Tiếng cô giáo trang nghiêm mà ấm áp. Tiếng đọc bài của em cũng vang vang đến lạ! Em nhìn ai cũng thấy thân thương. Cả đến chiếc thước kẻ, chiếc bút chì sao cũng đáng yêu đến thế!",
+        "options": [
+            "Trắng xanh.",
+            "Trắng.",
+            "Cam.",
+            "Vàng trắng."
+        ],
+        "answers": "B",
+        "prediction": "D"
+    },
+    {
+        "id": 526,
+        "question": "Tình cảm của các chiến sĩ đối với các cháu học sinh được thể hiện qua những từ ngữ nào?",
+        "context": "Thân yêu tặng các cháu học sinh miền Nam    \nGió hun hút lạnh lùng\nTrong đêm khuya phố vắng\nSúng tròng tay im lặng,\nChú đi tuần đêm nay\nHải Phòng yên giấc ngủ say\nCây rung theo gió, lá bay xuống đường...\nChú đi qua cổng trường\nCác cháu miền Nam yêu mến.\nNhìn ánh điện qua khe phòng lưu luyến\nCác cháu ơi! Giấc ngủ có ngon không?\nCửa đóng che gió kín, ấm áp dưới mền bông\nCác cháu cứ yên tâm ngủ nhé!\n\nTrong đêm khuya vắng vẻ,\nChú đi tuần đêm nay\nNép mình dưới bóng hàng cây\nGió đông lạnh buốt đôi tay chú rồi!\nRét thì mặc rét cháu ơi!\nChú đi giữ mãi ấm nơi cháu nằm.\nMai các cháu học hành tiến bộ\nĐời đẹp tươi khăn đỏ tung bay\nCháu ơi! Ngủ nhé, cho say...",
+        "options": [
+            "Lưu luyến.",
+            "Cháu ơi.",
+            "Yên tâm ngủ.",
+            "Khuya khoắt."
+        ],
+        "answers": "A",
+        "prediction": "B"
+    },
+    {
+        "id": 534,
+        "question": "Từ \"đánh thù\" trong câu \"Chú bận đánh thù\" có nghĩa là gì?",
+        "context": "Trời thu bận xanh\nSông Hồng bận chảy\nCái xe bận chạy\nLịch bận tính ngày\nCon chim bận bay\nCái hoa bận đỏ\nCờ bận vẫy gió\nChữ bận thành thơ\nHạt bận vào mùa\nThan bận làm lửa.\n\nCô bận cấy lúa\nChú bận đánh thù\nMẹ bận hát ru\nBà bận thổi nấu.\n\nCòn con bận bú\nBận ngủ bận chơi\nBận tập khóc cười\nBận nhìn ánh sáng.\n\nMọi người đều bận\nNên đời rộn vui\nCon vừa ra đời\nBiết chăng điều đó\nMà đem vui nhỏ\nGóp vào đời chung.",
+        "options": [
+            "Đánh thù có nghĩa là tên một trò chơi.",
+            "Đánh bại người khác trả mối thù cá nhân.",
+            "Đánh giặc bảo vệ đất nước.",
+            "Tất cả các ý trên."
+        ],
+        "answers": "C",
+        "prediction": "B"
+    },
+    {
+        "id": 537,
+        "question": "Vì sao quy tắc tham gia giao thông ở nước Anh lại trái ngược hẳn với Việt Nam và nhiều nước trên thế giới như vậy?",
+        "context": "Ở Việt Nam và nhiều nước trên thế giới, bất kể ô tô, xe đạp hay người đi bộ cũng phải theo đúng quy tắc giao thông là đi theo bên phải đường. Nhưng ở nước Anh và một số nước khác thì trái ngược hẳn, mọi phương tiện giao thông cũng như người đi bộ phải đi bên trái đường. Vì sao vậy? Thật ra tập quán này của nước Anh và một số nước khác cũng có nguyên nhân của nó. Từ thế kỷ 14 và 15, ở nước Anh và một số nước khác, người ta đi bộ là chủ yếu. Các hiệp sĩ, các nhà quý tộc giàu có khi đi đường thường đeo kiếm bên mình. Thông thường, người ta đều dùng thuận tay phải nên kiếm được đeo bên trái thân mình để khi cần có thể tiện tay rút kiếm ra được ngay. Còn khi bị kẻ địch tấn công từ phía trước mặt thì bên trái đường sẽ tiện cho việc đỡ đòn và tấn công kẻ địch hơn. Vì lý do đó mà ở Anh và ở một số nước mấy trăm năm nay người ta đều đi bên trái đường. Về sau súng được phát minh. Khi dùng súng nhằm vào đối phương người ta thường lấy tay trái đỡ súng, tay phải đặt vào cò súng. Trong trường hợp này, đi bên phải đường dễ chống kẻ địch từ phía trước tiến tới trước hơn. Vì lí do này mà ở các quốc gia phát triển muộn hơn như Mỹ có quy định đi bên phải đường.",
+        "options": [
+            "Đi bên trái đường để thuận tay rút kiếm trong trường hợp cần thiết.",
+            "Đi bên trái đường tiện cho việc tấn công và đỡ đòn kẻ địch khi bị tấn công từ phía trước hơn.",
+            "Đi bên trái đường để dễ xử lí khi gặp va chạm với những phương tiện khác.",
+            "Đi bên trái đường để thuận tay rút kiếm trong trường hợp cần thiết. Đi bên trái đường tiện cho việc tấn công và đỡ đòn kẻ địch khi bị tấn công từ phía trước hơn."
+        ],
+        "answers": "D",
+        "prediction": "B"
+    },
+    {
+        "id": 538,
+        "question": "Vì sao ở các quốc gia phát triển muộn hơn như Mỹ lại có quy định đi bên phải đường?",
+        "context": "Ở Việt Nam và nhiều nước trên thế giới, bất kể ô tô, xe đạp hay người đi bộ cũng phải theo đúng quy tắc giao thông là đi theo bên phải đường. Nhưng ở nước Anh và một số nước khác thì trái ngược hẳn, mọi phương tiện giao thông cũng như người đi bộ phải đi bên trái đường. Vì sao vậy? Thật ra tập quán này của nước Anh và một số nước khác cũng có nguyên nhân của nó. Từ thế kỷ 14 và 15, ở nước Anh và một số nước khác, người ta đi bộ là chủ yếu. Các hiệp sĩ, các nhà quý tộc giàu có khi đi đường thường đeo kiếm bên mình. Thông thường, người ta đều dùng thuận tay phải nên kiếm được đeo bên trái thân mình để khi cần có thể tiện tay rút kiếm ra được ngay. Còn khi bị kẻ địch tấn công từ phía trước mặt thì bên trái đường sẽ tiện cho việc đỡ đòn và tấn công kẻ địch hơn. Vì lý do đó mà ở Anh và ở một số nước mấy trăm năm nay người ta đều đi bên trái đường. Về sau súng được phát minh. Khi dùng súng nhằm vào đối phương người ta thường lấy tay trái đỡ súng, tay phải đặt vào cò súng. Trong trường hợp này, đi bên phải đường dễ chống kẻ địch từ phía trước tiến tới trước hơn. Vì lí do này mà ở các quốc gia phát triển muộn hơn như Mỹ có quy định đi bên phải đường.",
+        "options": [
+            "Đi bên phải đường để thuận tay rút kiếm trong trường hợp nguy hiểm.",
+            "Đi bên phải đường dễ chống kẻ địch dùng súng từ phía trước tiến tới.",
+            "Đi bên phải đường để dễ xử lí khi va chạm với các phương tiện khác.",
+            "Đi bên phải đường để tiện cho việc tấn công và đỡ đòn kẻ địch hơn."
+        ],
+        "answers": "B",
+        "prediction": "A"
+    },
+    {
+        "id": 540,
+        "question": "Từ “hiệp sĩ” có nghĩa là gì?",
+        "context": "Ở Việt Nam và nhiều nước trên thế giới, bất kể ô tô, xe đạp hay người đi bộ cũng phải theo đúng quy tắc giao thông là đi theo bên phải đường. Nhưng ở nước Anh và một số nước khác thì trái ngược hẳn, mọi phương tiện giao thông cũng như người đi bộ phải đi bên trái đường. Vì sao vậy? Thật ra tập quán này của nước Anh và một số nước khác cũng có nguyên nhân của nó. Từ thế kỷ 14 và 15, ở nước Anh và một số nước khác, người ta đi bộ là chủ yếu. Các hiệp sĩ, các nhà quý tộc giàu có khi đi đường thường đeo kiếm bên mình. Thông thường, người ta đều dùng thuận tay phải nên kiếm được đeo bên trái thân mình để khi cần có thể tiện tay rút kiếm ra được ngay. Còn khi bị kẻ địch tấn công từ phía trước mặt thì bên trái đường sẽ tiện cho việc đỡ đòn và tấn công kẻ địch hơn. Vì lý do đó mà ở Anh và ở một số nước mấy trăm năm nay người ta đều đi bên trái đường. Về sau súng được phát minh. Khi dùng súng nhằm vào đối phương người ta thường lấy tay trái đỡ súng, tay phải đặt vào cò súng. Trong trường hợp này, đi bên phải đường dễ chống kẻ địch từ phía trước tiến tới trước hơn. Vì lí do này mà ở các quốc gia phát triển muộn hơn như Mỹ có quy định đi bên phải đường.",
+        "options": [
+            "Người có lòng hào hiệp, dũng cảm, hay giúp đỡ người gặp nạn.",
+            "Người có sức khoẻ, sức mạnh thể lực đặc biệt.",
+            "Người làm việc trong quân đội.",
+            "Người đỗ đạt cao trong các kì thi."
+        ],
+        "answers": "A",
+        "prediction": "C"
+    },
+    {
+        "id": 544,
+        "question": "Người cha muốn nhắc nhở con điều gì khi nói với con: “ Nhưng con hãy nhìn những lỗ đinh còn để lại trên hàng rào. Hàng rào đã không còn giống như xưa nữa. Nếu con nói điều gì trong cơn giận dữ, những lời nói ấy cũng giống như lỗ đinh này. Chúng để lại những vết thương khó lành trong lòng người khác. Cho dù sau đó con có nói xin lỗi bao nhiêu lần đi nữa, vết thương đó vẫn còn lại mãi. Mà vết thương tinh thần còn tệ hại hơn những vết đinh rất nhiều.\"",
+        "context": "Một cậu bé nọ có tính xấu là rất hay nổi nóng. Cha cậu bèn đưa cho cậu một túi đinh rồi bảo:\n\n- Mỗi khi con nổi nóng với ai đó thì hãy chạy ra sau nhà và đóng một cái đinh lên hàng rào gỗ.\n\nNgày đầu tiên, cậu bé đã đóng tất cả 37 cái đinh lên hàng rào. Nhưng sau vài tuần, cậu bé đã tập kiềm chế cơn giận của mình và số lượng đinh cậu đóng trên hàng rào ngày một ít đi. Cậu nhận thấy rằng kiềm chế cơn giận của mình còn dễ hơn là phải đóng một cái đinh lên hàng rào.\n\nĐến một ngày, cậu đã không nổi giận một lần nào trong suốt cả ngày. Cậu đến thưa với cha. Người cha bảo:\n\n- Tốt lắm, bây giờ nếu sau mỗi ngày mà con không hề giận ai dù chỉ một lần, con hãy nhổ một cây đinh ra khỏi hàng rào.\n\nNgày lại ngày trôi qua, rồi cũng đến một hôm cậu bé hãnh diện tìm cha để báo rằng không còn một cái đinh nào trên hàng rào nữa. Cha cậu liền dẫn cậu đến bên hàng rào, bảo:\n\n- Con đã làm mọi việc rất tốt. Nhưng con hãy nhìn những lỗ đinh còn để lại trên hàng rào. Hàng rào đã không còn giống như xưa nữa. Nếu con nói điều gì trong cơn giận dữ, những lời nói ấy cũng giống như lỗ đinh này. Chúng để lại những vết thương khó lành trong lòng người khác. Cho dù sau đó con có nói bao nhiêu lần xin lỗi bao nhiêu lần đi nữa, vết thương đó vẫn còn lại mãi. Mà vết thương tinh thần còn tệ hại hơn những vết đinh rất nhiều.",
+        "options": [
+            "Hãy biết kiềm chế bản thân, đừng bao giờ làm tổn thương người khác nhất là trong khi giận dữ vì sau đó có nói xin lỗi bao nhiêu lần đi nữa, vết thương đó vẫn còn lại mãi.",
+            "Mọi việc cần phải suy nghĩ kỹ thật kĩ trước khi nói, trước khi làm.",
+            "Hãy quan tâm đến tất cả mọi người xung quanh.",
+            "Hãy biết suy nghĩ thật trước khi đưa ra quyết định và kiềm chế bản thân, đừng làm tổn thương người khác khi giận dữ."
+        ],
+        "answers": "D",
+        "prediction": "A"
+    },
+    {
+        "id": 548,
+        "question": "Từ “cháu” trong câu “Cháu là Gioan” đóng vai trò cú pháp gì?",
+        "context": "Chiều hôm ấy có một em gái nhỏ đứng áp trán vào tủ kính cửa hàng của Pi-e, nhìn từng đồ vật như muốn kiếm thứ gì. Bỗng em ngửng đầu lên:\n-Cháu có thể xem chuỗi ngọc lam này không ạ?\n\nPi-e lấy chuỗi ngọc, đưa cho cô bé. Cô bé thốt lên:\n-Đẹp quá! Xin chú gói lại cho cháu!\n\nPi-e ngạc nhiên:\n-Ai sai cháu đi mua?\n-Cháu mua tặng chị cháu nhân lễ Nô-en. Chị đã nuôi cháu từ khi mẹ cháu mất.\n-Cháu có bao nhiêu tiền?\n\nCô bé mở khăn tay ra, đổ lên bàn một nắm xu:\n\n-Cháu đã đập con lợn đất đấy!\n\nPi-e trầm ngâm nhìn cô bé. Rồi vừa lúi húi gỡ mảnh giấy ghi giá tiền, anh vừa hỏi:\n\n-Cháu tên gì?\n-Cháu là Gioan.\n\nAnh đưa Gioan chuỗi ngọc gói trong bao lụa đỏ:\n-Đừng đánh rơi nhé!\n\nCô bé mỉm cười rạng rỡ, chạy vụt đi. Cô đâu biết chuỗi ngọc này Pi-e dành để tặng vợ chưa cưới của mình, nhưng rồi một tai nạn giao thông đã cướp mất người anh yêu quý.\n\nNgày lễ Nô-en tới. Khách hàng ai cũng vui làm cho Pi-e càng đau lòng. Khi người khách cuối cùng bước ra, anh thở phào. Thế là qua được năm nay! Nhưng anh đã lầm.\n\nCửa lại mở, một thiếu nữ bước vào. Cô lấy trong túi xách ra chuỗi ngọc lam:\n-Chuỗi ngọc này có phải của tiệm ông không ạ?\n-Phải.\n-Thưa… Có phải ngọc thật không?\n-Không phải thứ ngọc quý nhất, nhưng là ngọc thật.\n- Ông có nhớ đã bán cho ai không?\n-Một cô bé tên là Gioan mua tặng chị của mình.\n-Giá bao nhiêu ạ?\n-Tôi không khi nào nói giá tiền của quà tặng.\n-Gioan chỉ có ít tiền tiêu vặt. Làm sao em mua nổi chuỗi ngọc này?\n\nPi-e gói lại chuỗi ngọc và đáp:\n-Em đã trả giá rất cao. Bằng toàn bộ số tiền em có.\n\nHai người đều im lặng. Tiếng chuông từ một giáo đường gần đó bắt đầu đổ.\n-Nhưng sao ông lại làm như vậy?\n\nPi-e vừa đưa chuỗi ngọc cho cô gái vừa nói:\n-Hôm nay là ngày Nô-en. Tôi không có ai để tặng quà. Cho phép tôi đưa cô về nhà và chúc cô một lễ Nô-en vui vẻ nhé!\n\nTrong tiếng chuông đổ hồi, Pi-e và thiếu nữ cùng sánh nhau sánh bước qua một năm mới hi vọng tràn trề.",
+        "options": [
+            "Danh từ làm chủ ngữ.",
+            "Đại từ làm chủ ngữ.",
+            "Tính từ làm chủ ngữ.",
+            "Động từ làm chủ ngữ."
+        ],
+        "answers": "B",
+        "prediction": "A"
+    },
+    {
+        "id": 549,
+        "question": "Cặp quan hệ từ trong câu “Tuy Gioan không đủ tiền nhưng Pi-e vẫn bán cho cô bé chuỗi ngọc lam.” biểu thị quan hệ gì?",
+        "context": "Chiều hôm ấy có một em gái nhỏ đứng áp trán vào tủ kính cửa hàng của Pi-e, nhìn từng đồ vật như muốn kiếm thứ gì. Bỗng em ngửng đầu lên:\n-Cháu có thể xem chuỗi ngọc lam này không ạ?\n\nPi-e lấy chuỗi ngọc, đưa cho cô bé. Cô bé thốt lên:\n-Đẹp quá! Xin chú gói lại cho cháu!\n\nPi-e ngạc nhiên:\n-Ai sai cháu đi mua?\n-Cháu mua tặng chị cháu nhân lễ Nô-en. Chị đã nuôi cháu từ khi mẹ cháu mất.\n-Cháu có bao nhiêu tiền?\n\nCô bé mở khăn tay ra, đổ lên bàn một nắm xu:\n\n-Cháu đã đập con lợn đất đấy!\n\nPi-e trầm ngâm nhìn cô bé. Rồi vừa lúi húi gỡ mảnh giấy ghi giá tiền, anh vừa hỏi:\n\n-Cháu tên gì?\n-Cháu là Gioan.\n\nAnh đưa Gioan chuỗi ngọc gói trong bao lụa đỏ:\n-Đừng đánh rơi nhé!\n\nCô bé mỉm cười rạng rỡ, chạy vụt đi. Cô đâu biết chuỗi ngọc này Pi-e dành để tặng vợ chưa cưới của mình, nhưng rồi một tai nạn giao thông đã cướp mất người anh yêu quý.\n\nNgày lễ Nô-en tới. Khách hàng ai cũng vui làm cho Pi-e càng đau lòng. Khi người khách cuối cùng bước ra, anh thở phào. Thế là qua được năm nay! Nhưng anh đã lầm.\n\nCửa lại mở, một thiếu nữ bước vào. Cô lấy trong túi xách ra chuỗi ngọc lam:\n-Chuỗi ngọc này có phải của tiệm ông không ạ?\n-Phải.\n-Thưa… Có phải ngọc thật không?\n-Không phải thứ ngọc quý nhất, nhưng là ngọc thật.\n- Ông có nhớ đã bán cho ai không?\n-Một cô bé tên là Gioan mua tặng chị của mình.\n-Giá bao nhiêu ạ?\n-Tôi không khi nào nói giá tiền của quà tặng.\n-Gioan chỉ có ít tiền tiêu vặt. Làm sao em mua nổi chuỗi ngọc này?\n\nPi-e gói lại chuỗi ngọc và đáp:\n-Em đã trả giá rất cao. Bằng toàn bộ số tiền em có.\n\nHai người đều im lặng. Tiếng chuông từ một giáo đường gần đó bắt đầu đổ.\n-Nhưng sao ông lại làm như vậy?\n\nPi-e vừa đưa chuỗi ngọc cho cô gái vừa nói:\n-Hôm nay là ngày Nô-en. Tôi không có ai để tặng quà. Cho phép tôi đưa cô về nhà và chúc cô một lễ Nô-en vui vẻ nhé!\n\nTrong tiếng chuông đổ hồi, Pi-e và thiếu nữ cùng sánh nhau sánh bước qua một năm mới hi vọng tràn trề.",
+        "options": [
+            "Biểu thị quan hệ tương phản.",
+            "Biểu thị quan hệ giả thiết, kết quả.",
+            "Biểu thị quan hệ nguyên nhân, kết quả.",
+            "Tất cả đều sai."
+        ],
+        "answers": "A",
+        "prediction": "B"
+    }
+]
